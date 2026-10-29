@@ -15,7 +15,7 @@ The gallery contains 23 comparison stations: parameter scope, world projection, 
 
 In Play: **I** ignites the LIVE burn/disintegration specimens, **R** resets, **C** removes the hot edge while progress continues. Niagara edge particles are not implemented. Shield impact and slime are material demonstrations; the optional Landscape material is not a finished Landscape station.
 
-Also included: **Week09-Slides.pptx** (40 slides with 4K captures) and **Week09-Student-Materials.zip** (offline slides, lab and cheat sheet).
+**[Download the latest PowerPoint — 41 slides](https://github.com/anthonymonteagudo/Week09-Gallery/releases/download/week09-gallery-2026-10-29-v2/Week09-Slides.pptx)**. Includes the shader-homework video + breakdown submission slide. Use this separate download for the latest slides; the project ZIP retains the deck bundled with its snapshot.
 
 Validated in UE 5.7.4: fresh project load and map reload, 409 actors, 23 benches and 201 reachable project dependencies with none missing. SHA256SUMS.txt verifies the ZIP; gallery-manifest.json records the packaged files.
 
