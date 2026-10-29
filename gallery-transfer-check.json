@@ -1,0 +1,12 @@
+{
+  "engine": "5.7.4-51494982+++UE5+Release-5.7",
+  "cold_load": true,
+  "map_reload": true,
+  "actors": 409,
+  "platforms": 23,
+  "backing_walls": 23,
+  "dependencies_checked": 201,
+  "missing_game_dependencies": [],
+  "local_automation_plugin_removed": true,
+  "scope": "Packaged project cold-load and references; headless NullRHI, not a GPU rendering test."
+}

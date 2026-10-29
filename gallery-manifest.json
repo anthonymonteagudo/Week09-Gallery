@@ -1,0 +1,2732 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 2265,
+    "sha256": "00fa11dca67e1dd3f6634362bcadac365f1828fe2881dd96287e79b1b25a4bf0"
+  },
+  {
+    "path": "Week09-Slides.pptx",
+    "bytes": 51292073,
+    "sha256": "9f02651e9c14a04634c4b9347a69e6dc5b2a16eb69bf583e99a1a6f58d5cdff1"
+  },
+  {
+    "path": "Week09-Student-Materials.zip",
+    "bytes": 70835235,
+    "sha256": "bdb47001b1a5f43f27e36fc3a591409ea58ac1ae3290faf7ffd5187bf8751d69"
+  },
+  {
+    "path": "Week09MaterialLab/Config/DefaultEngine.ini",
+    "bytes": 288,
+    "sha256": "331375ce2f80a4c28a38d9a9598e8d8e60a2d50a61af6950cd77a77e5dffade9"
+  },
+  {
+    "path": "Week09MaterialLab/Config/DefaultInput.ini",
+    "bytes": 9106,
+    "sha256": "05cc777eaf15bfc20f234c39196737b098102583cc05c35912e05a39be8cf919"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/0/86/96PBLHSDLS8DUS2WOGXB1P.uasset",
+    "bytes": 414642,
+    "sha256": "4f4660a96e11d7dca1f854f15363f7924ceb409f73e3e4eaac5cb9a1c8066b63"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/0/97/9QSFPMPSN3LRX0FVUSX4HW.uasset",
+    "bytes": 544975,
+    "sha256": "10d8b68d929d15ba2077910899241e87b23b61e40feaca20b511613b5eee859f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/0/JO/3OHR2TQIIZAP7DHE0YIRQR.uasset",
+    "bytes": 538020,
+    "sha256": "520855ab2f7e1eebff2ef955dcf8111cb4257e041e4366bd9fa2b46e5d7a6e2e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/0/WF/02PWFGHBIUAUTIO83DLL43.uasset",
+    "bytes": 271422,
+    "sha256": "46e37858d43938281268b49f249f6cb1990c60bb02f98df41a4a5e03958d9837"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/0/WX/M6WLLSF0DE7KDNYEG39U5U.uasset",
+    "bytes": 546127,
+    "sha256": "3593f742926e017c7930affbf8f1f25730c5bd32c93d5a06e6cac08365303b6f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/1/1E/D1YG5XJTMG1Y5GYRTD344U.uasset",
+    "bytes": 548454,
+    "sha256": "ae485465eb929e1ddbf2173552c0380f579898a6181c5e6d5ecbefd58b670036"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/1/1J/6Y288POXJHO2EDWIB1GL0V.uasset",
+    "bytes": 544348,
+    "sha256": "f3ddc19ae591630a0a9283f300f3538a16fd924ca0b0297ea93aee98b34116d8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/1/4B/60IYVEMY11NM8TGJZT68E8.uasset",
+    "bytes": 546199,
+    "sha256": "1c8f03a0e9be9cb0c6876888f18685fc250902f48639fe53167f567537b9499d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/1/4D/7BKSKUHZ3V09XFKHJNYFMI.uasset",
+    "bytes": 521583,
+    "sha256": "640119a3900499ec5d11f47906071b3ca7ae9de5b3aaab5627dbf79d2224d724"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/1/94/UQH4P24RFI3Z2RC4JHOV9U.uasset",
+    "bytes": 3635,
+    "sha256": "aee64abf248ded83c07385d05826da35a5af28d408b61b9fcb6ff4f70c409980"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/1/BG/DHXAZHMJZ1K63XFVUCN0AU.uasset",
+    "bytes": 429795,
+    "sha256": "b74e89785592e780b8d91513e67c7438edac75ab2affc77046c1bf471572c0a5"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/1/BM/5ZGHGT7EQ9XQ3I42KVQ6IN.uasset",
+    "bytes": 509838,
+    "sha256": "701b89bf6c3b473fb43bad462a84cb64f8b73853d6e56db7851ba41d53e5d987"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/1/IZ/K5GX0LN1W93N729L72A9KX.uasset",
+    "bytes": 542417,
+    "sha256": "bcf4ec65acdbcd4536818f08d621d38ff262340cbc5a5876b0ae17dadc73c6c6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/1/JY/22IJR419GNLYOI4K4THETZ.uasset",
+    "bytes": 542082,
+    "sha256": "0a37e1084b93e1ecbe84e95cdef492fcce6555ca24e08543e2422458492b0da4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/1/KJ/TS1KX43XFSQB9KYQL75DXP.uasset",
+    "bytes": 427064,
+    "sha256": "26351242ead1c7c9cb6920f8f789383f7b8bffe72f8b767072347cf20b72e0d7"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/2/F1/W7P1B5B7KLXB2X0QBW7FA7.uasset",
+    "bytes": 536439,
+    "sha256": "c603b98d8cbf12658d9f9627aea44d1075f453053ad27ad246be7cb9d3744f2f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/2/FN/LQW0EC2T9NSOR9LX4GHDZC.uasset",
+    "bytes": 528181,
+    "sha256": "09b795d82031d0759e854a34a6b6e9e80b13bc7303d7e8a3a6da9be45a60711c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/2/GB/3LFZNDR9T6AO8R1VR7M0EX.uasset",
+    "bytes": 551643,
+    "sha256": "a2de1258410a19251230aa0c45a52aa76f131b45fe1eb1e8036f588a01debbbf"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/2/J5/81NMC61HIYJT3MZ7O4OKJ8.uasset",
+    "bytes": 546236,
+    "sha256": "32176c336791f33c2cb9d8fd5a815a27989f90496139e1eea2689a1e6bccd771"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/2/NG/LV73LIWO0JPVYAZR23NF07.uasset",
+    "bytes": 3746,
+    "sha256": "2cf963d342738125c6a75d1fe4b736168851a732b4ab040f6eb578962a15eb5f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/3/6C/X3TP6J56T6M0HRVY4VC4W1.uasset",
+    "bytes": 525921,
+    "sha256": "2b567cdcf217645ad2acc8459312fe7a219d502a9f84b4f53bd8af344147fcc6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/3/9A/I4IM2C4JLRF8QTO5ZZUKUU.uasset",
+    "bytes": 462930,
+    "sha256": "fbf5ad6eb9d1364731f8f0a53116762f3a296a03a78029d9884eb1cdb94a10a5"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/3/FP/TT2GSCCGEVMJ8MLYB6OM45.uasset",
+    "bytes": 540830,
+    "sha256": "5f95acddd73b268f22872a8028d234d77cf898d4a286cea765b2abb42a59050d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/3/HG/YT504BK6BI95VFW1K6H3FU.uasset",
+    "bytes": 581365,
+    "sha256": "dfb88fa24ceb29a96f800d6a627591cdcf19dfa755018316aecf6ff36470e6e3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/3/IL/VOKUFVFXB4X8DBGNEUFDR4.uasset",
+    "bytes": 531290,
+    "sha256": "2bd8b4c73ab4e96b70449ff3c2e36632d7e0cd4dc5d31160b9711a72fa027bee"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/3/NR/WMFW1RP6L0Q43EGSNCS057.uasset",
+    "bytes": 3920,
+    "sha256": "5442572e15e1ea884cc0a187010caeaecd5f2a95e9fa3ebe210962bdb7bc77ab"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/3/U3/DKZ1HXMHDBHHW3EFREG4U1.uasset",
+    "bytes": 495129,
+    "sha256": "7818c10150155b10fccfdfbd3476c1a2f2853e4ee6f9ca74ae9f07ce8a43292f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/3/XD/101WBYEFTWP3SK9DZFNWHN.uasset",
+    "bytes": 542320,
+    "sha256": "99f46dc62b3da960f45877ebfcea401f5429d68909351920feb8c55e012371b3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/4/NX/HOPG5TMV3SKN49JREUKBHC.uasset",
+    "bytes": 554840,
+    "sha256": "a09bbba4c0588de5640483995ef93b427602581a9fffe2aa6739f81f31e29b06"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/4/PO/183AFXCL832VOPMXBY16AJ.uasset",
+    "bytes": 541751,
+    "sha256": "a77e8387395c92b27ef4047780ccc25363936ffdd968f6594236a7c93eb54149"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/4/QE/JS9SH1KVBNBO077VIN76M1.uasset",
+    "bytes": 256183,
+    "sha256": "a52c361f6943061f2ac2a164e62db5b9ce28d328d7595d61524322321512fe22"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/4/YI/5KL1FZM2ZJI8CI5KAJEPLS.uasset",
+    "bytes": 517127,
+    "sha256": "98fe7c48cee7e479f43213bcdf119703c209cb35c6e503ffcd680da7fe4a69a9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/5/N4/C3CHB4S74TJVXE2KQ47B5U.uasset",
+    "bytes": 532019,
+    "sha256": "e5d7f36f23a6fe8167423543a683258ad7f6f998c31e8705a4def0acadfef439"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/6/SG/XWABK5Q3TPP3BXUDC9BR22.uasset",
+    "bytes": 514670,
+    "sha256": "deee78aa4ce1d9e80420fe0497837e49336903b6ced6680648c87b3cd6757019"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/6/T7/R0V5E7HOS1N62T1PBA0IS4.uasset",
+    "bytes": 396361,
+    "sha256": "3768079a8742a3e0f527161001a78d2e2b42a384d1083873c985305be6abfff3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/6/VT/9YJ37GMKEKWJWL9BU88GZ1.uasset",
+    "bytes": 536637,
+    "sha256": "77871b1783ddfec669b30527082447572567a44b4a67fd56cb33b15da213b743"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/7/0Z/6C5HHMUE7WYVK4Y7Y1IDBZ.uasset",
+    "bytes": 3747,
+    "sha256": "65fad281b8a3fa4837fd8921a3cb2fa12f076ce890c494b3570adf6c8298f904"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/7/GO/C6PQBWMMTW56YKS9MWKYS1.uasset",
+    "bytes": 497882,
+    "sha256": "34aaf77188e1ec5d775df9916cd6e472368933ade0afa3ff79daea04d5863ac3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/8/80/43ELFTH291NOVSKLDDJUL0.uasset",
+    "bytes": 5369,
+    "sha256": "7b1636edba29d3777410bb357431d6b3ccb85923933b80851676de71c499d92d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/8/PD/FEEKID9JP32CZAY9PJDPUZ.uasset",
+    "bytes": 544784,
+    "sha256": "1230c2a27032691c4b8807f45d40654fa0699e44f2b9f5206f5bf0bd78c3f190"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/8/S9/FY13036Z9DRCWZSJ984VR4.uasset",
+    "bytes": 528099,
+    "sha256": "8accc983620a8f98e687b11885dae4fde07f59f52b077309049fc4da132b65f0"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/9/AL/UAGNUX0CEUKB0XF56V4SG4.uasset",
+    "bytes": 3608,
+    "sha256": "10bdfe362eda35b6249d7212a1276db2b449498f91817bbb2d0c6f8c48f5e40c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/9/DL/Y7D53RXZL9NZPO3UA0A0TY.uasset",
+    "bytes": 533801,
+    "sha256": "c81d5e29dec182b40b88967c52ce205840a8d5949b3abe36babbc1c168c90b04"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/9/E7/T4U4M5DIHISZIR03FZH8ZX.uasset",
+    "bytes": 545952,
+    "sha256": "2cf0d46efd57325c58e8a7072cc4ad0a219a892e339e92c15b5444998870181c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/9/GE/22O4KW4G0EKWFLFOO322K3.uasset",
+    "bytes": 479104,
+    "sha256": "055c9999655a044073674d2e6cf4d07cb990889756a58bccb3974dac2c0d9f0d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/9/VY/W73U8UCWAIVC9NAONKWDSM.uasset",
+    "bytes": 516606,
+    "sha256": "7613a1f33efbcb197f4db0862426f96e4cf5535ede43dd0bc2966315f345e282"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/9/W1/W80U5IQIC3RQ385H6GUJS7.uasset",
+    "bytes": 526594,
+    "sha256": "b6d5c82ce44531895ffe7e22298de56b96620ac77adb8eb355bd9dca98a12ba6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/9/WP/HKWT70O2Q097UDGVAO82PP.uasset",
+    "bytes": 554216,
+    "sha256": "9d6e6674aee2a8259af271c468e797d2b45572896059b5bef99cb7e3f2d09e8a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/9/XO/ZED5NFECU912N5NK7MD7AN.uasset",
+    "bytes": 4803,
+    "sha256": "24cb2be578f3fe60fc36aa4980394e92b49d07eb269192c6c5eb74d8b0a6256c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/A/3W/USGC06Z9RHPY3A09ZJ4YC8.uasset",
+    "bytes": 539818,
+    "sha256": "19d816c1aa8250b17cfe7b16e256d13c182b4ca838dfbfd468d484fbc3b95da8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/A/6S/UBAO936W3EEASF18FTA9N2.uasset",
+    "bytes": 550515,
+    "sha256": "35e20c8539bb1124c5e6bac2a48bc6b8b390e1c45f715dc46d826b305127d741"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/A/OQ/MGVL4PPOTA9Q9GNVHLQF1F.uasset",
+    "bytes": 537627,
+    "sha256": "d704b7955865d355e4889183ab540803b29cd6b2a4c190d255e5874b2bce29a1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/A/ZN/XBDJX2156ONSKSGW7TF7C9.uasset",
+    "bytes": 551975,
+    "sha256": "e0fb289a650329548e4f336c66e4f018902bebbd070290841824db95dcc42d8a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/B/35/ZKKVWTARIVY45OX841GPK8.uasset",
+    "bytes": 575370,
+    "sha256": "ba67f69b175aa3fd7b1bd4fc521e6428c24b77aadd27cbaf7140dbc3f81a5329"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/B/6E/KWI22J6TY4VJM75HNZT45O.uasset",
+    "bytes": 539971,
+    "sha256": "6bfcba9352cd7709c86edb52ad926162994cb8273caed04637e7668eb55592c2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/B/7P/EWXN4ZQM86OJQPLIFFUNVW.uasset",
+    "bytes": 516202,
+    "sha256": "4a3f09ed361d6907731cf950efa33208057745788c06533f4ea6558d857434bb"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/B/H6/HOE0P6IIBXMFOCXWTETMC0.uasset",
+    "bytes": 537740,
+    "sha256": "885bfad67c9e0c9e25ad018d9e39420c2ba432d04406bd9a85b036f98ee5c22d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/B/JB/J9G1T3BPP6BXN2O79WKZBM.uasset",
+    "bytes": 413910,
+    "sha256": "026648371274307ef46926af1273c3280b9172bcc03389b69de5af4837bb2d6c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/B/KQ/TERDNPA43T3TNG2PXIRSJ7.uasset",
+    "bytes": 554285,
+    "sha256": "e413c5a2e2d38127158a4c6f5076ed6aa09aa0e2dc8f56d9ba2182d2f8e22f21"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/B/LR/7UB40R2XAM1SGVSJ2BNPHB.uasset",
+    "bytes": 517249,
+    "sha256": "48bb0b52a7405bb5111eb6695928021247b854cddc9de925d7472f9f37774eba"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/B/NZ/BJUDJ8GOKN5S74PBOC2KC7.uasset",
+    "bytes": 805644,
+    "sha256": "e38d15371baf5508003c71a7b07ade90fc8e8f209daffe7df111b250acc20a60"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/C/96/IGXMLBSUGV2BCW9UZCV6B7.uasset",
+    "bytes": 558170,
+    "sha256": "8ef82a490828e515e4e11b3faea1e8bcf2d64da8e62f31f918370c99a45d11f4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/C/DL/MKPKGSTNMBKSR567SFPWDK.uasset",
+    "bytes": 441203,
+    "sha256": "4ccdb612dfc45de7084108a3c14bbdb076128c66071120a45066744c58d15d8d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/C/JQ/2OVKN53BS4WN75D9HACCK8.uasset",
+    "bytes": 303186,
+    "sha256": "51c19478962409cbff1dbbcd2abf7be91e61def798b861c335e32622c3ab529a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/C/QH/JU0IRUWYPWBUZLEROWKTYG.uasset",
+    "bytes": 539606,
+    "sha256": "b8ee254dc3fbbbd1c265080abbfc43b9c0fef02f6c988c6aaa2ad2c592d6b0d5"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/D/A1/Q4OF386GC95ZZVDDTFYEMS.uasset",
+    "bytes": 11607,
+    "sha256": "adb1e91dba7d4025865e6eae149734fe74cd5232d2e64a151d177e60ac819ce4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/D/LO/AE9A343L2FS55J7W8JMRHT.uasset",
+    "bytes": 542517,
+    "sha256": "23f2dadcf782b0d2fda05d1f4a38add768500b8eba134929738781cc24712499"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/D/LO/L4OKN3OQK9MW4NT1XPI6FN.uasset",
+    "bytes": 568985,
+    "sha256": "bd09397e1a596cbf2aaa130f8cb151f22684ae7d371103a4a28e783340b41ac1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/D/Z9/59Y09PH2RT79ULYBVSTQJC.uasset",
+    "bytes": 5855,
+    "sha256": "cd64942f664c19415f59b224a249d348ab9ac4e76e2fa80f409e5bddba099eac"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/E/1G/U1QEZP774GA57S5W1CE1MA.uasset",
+    "bytes": 517440,
+    "sha256": "f6253912adb2835f6e45217146d97af8cf314aec5b4fb554ece2586ce6eaf2c8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/E/5G/DOX5DAA20OF7E5F342I6PE.uasset",
+    "bytes": 409315,
+    "sha256": "f23cd0d3474238fe822079872b802d8523a5a3a7d11207341bc2dfed4216d125"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/E/92/ZOZPRCC9LGNBDY7NR6000X.uasset",
+    "bytes": 541107,
+    "sha256": "43e4e749f7be895071cc02e2fdd2a3a8704a46a0d03b12f6f4676efb0a9250dd"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/E/C4/NB08QHQQFKINBZH64S76CY.uasset",
+    "bytes": 271753,
+    "sha256": "90cf769ce012c23ac8ec906fde777ea8bd078358cb7c20098deac37ddec3cef1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedGlass/DemoSceneLights/E/UL/Z3C9CE67FDJHYPSB5YXFJ3.uasset",
+    "bytes": 456080,
+    "sha256": "9a561f65147914cc0a6f6be05aabe83a5ea414427a6b47e09a518ef89388b0f2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/0/6K/P502D2HG6LQJ72MBA25FTE.uasset",
+    "bytes": 541038,
+    "sha256": "96e26969c7b8c6f1bc5b9c385323e9538e7f66d0ac7491b132ece829c9346268"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/0/8V/4BEWYIQEUFWVPQA7F1GK5I.uasset",
+    "bytes": 551906,
+    "sha256": "e87b4a9c0a93994dd06912717e6822c0a5c5472b2466871e32e70d1bf1bee750"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/0/AQ/T6J6CVKR4P4S1UITVEYVZ5.uasset",
+    "bytes": 441134,
+    "sha256": "b78b955c4ef22db16bf796406b9f7e905e8f76aed22d9bdfe2450b8baadbd986"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/0/N6/QBYM7ROES3AX92ITSXXI7B.uasset",
+    "bytes": 539537,
+    "sha256": "4c4038ab8bf49731e3c578c8fb11ba1768ef2f9f43e3ce5f793a46818d9bef6c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/0/QM/KXNM524QW1WTMV5NHX4HMV.uasset",
+    "bytes": 548385,
+    "sha256": "296d7f46950d2e79dcb92b088ee34e02509336e685804967c2b9d1c20900b9d8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/1T/KP4OJS4AEC488CLQBD8W0K.uasset",
+    "bytes": 4533,
+    "sha256": "5f741e013324a234b4fe84a67a1d658b1e026ca25c6894eafc234925b34ae4c8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/E1/J05TAJQEDJLEIXDYFNBWYT.uasset",
+    "bytes": 540761,
+    "sha256": "ac5306925819679b53edf5eaa9a36aed19f4b652fd3255af09191f0219ff9ce5"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/FE/WI76Y4V79OBM2A2L7M8QHH.uasset",
+    "bytes": 4227,
+    "sha256": "bdc3538b3485e4dc2ed4aeb0da1eea0f6615fae0b008a3f5438ecb7698b389d3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/MU/DDJRV4FU70COJUEWZT4Q5S.uasset",
+    "bytes": 4603,
+    "sha256": "e3b45e8230c26cf4bba6c5e8524e89a7c465cd8922c43ab5c2ca640f44669ed7"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/N3/7SM4J11I6Z0VVFAT9N496Y.uasset",
+    "bytes": 545883,
+    "sha256": "0cef2a10dcf7fff9bf208148cfeb5b99add04b36b7921df951c50934dc58673d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/N9/3H77CBHCLGDRHX13BEMBMH.uasset",
+    "bytes": 4630,
+    "sha256": "2a653a6ca99e74dca094cc9682b74058f7a949f17e84b5a92af42bdbe98b9d04"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/OZ/L1VJA966HTOUFYDS8YUTGU.uasset",
+    "bytes": 526525,
+    "sha256": "d98119399cba929603271613c601a8c10fd4e8d87d45ae1e1300cf812cdc82e4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/PG/O5VYI5U0KTIWJB8T7VSVOY.uasset",
+    "bytes": 537558,
+    "sha256": "917920fc07dd92a1e1885940b01db151eb1188a67c82844ca6194e99c6f7179f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/R3/LR7AQHVYVIQ6WRRT2TAEQL.uasset",
+    "bytes": 4221,
+    "sha256": "a1fd05468e4051e3dd696e1f86440df126965c660a447e0053a44de3940f1df4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/SK/B7IRS9AJIZ86Z7VJB0AFZ6.uasset",
+    "bytes": 528112,
+    "sha256": "7f0cd8dab6771ffe8840d24c464565e79e8c80636231d382ad4655ee4486ca56"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/TT/FT9B9S19TGHI0SIDCKZSVD.uasset",
+    "bytes": 462861,
+    "sha256": "53a75408a27f353a09d4b8c0f2a390aed6b535b41dd80823b7387b9360d37b23"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/1/UU/4WJY89EIKIMOSBNXZQ1CA6.uasset",
+    "bytes": 542013,
+    "sha256": "fcf1294414ecfeaf3ed8665dab0c09a0ce64fbdb00bb764775051277aa223be4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/2/1T/QPQL9Y5L5C3C7TQQ7ZQAEC.uasset",
+    "bytes": 4662,
+    "sha256": "fd2bd585fcbd596c84cda9f14483d0f22d195aed99bd7c40b29195583bc696ed"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/2/3L/GAA74X1I5TH73450ZCRAC6.uasset",
+    "bytes": 541682,
+    "sha256": "4b1114dd06f21a05de11c566dcec1cf6347d95dd619e71fbd5945e918b9a180a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/2/8N/TLMIURMLMAKO5ACTMBSJNQ.uasset",
+    "bytes": 531950,
+    "sha256": "dad1925ee36e955d73eec7790d24ae7c70928a8ac345b80f7623ac24c184770d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/2/A2/E6OV8VYYT2QDOQU2WVUBGP.uasset",
+    "bytes": 4660,
+    "sha256": "ef74c72ee47343ba4bab7073ae5dbab308c574f392f061d58d94e59f506b516c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/2/ID/77XZNSNMJKSE53LPZC5SQU.uasset",
+    "bytes": 4666,
+    "sha256": "6c03d7186b44b923f21ba4b85f0e5b6afba220ad194054c715621526b83bdfe1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/2/IS/5ULX7S7NXY14E19JHLIZRX.uasset",
+    "bytes": 3761,
+    "sha256": "671c7e8e1cba17e499063117fa3a679aa7d2c82631ec180f0757215663d9dea3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/2/KB/P3KN08QRK34XRKD5P5YCTN.uasset",
+    "bytes": 396292,
+    "sha256": "b6c619d1d26bd4f752fce9d3869aefb8f53d80c5eda2cea7514ea4d26601657f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/2/LC/FLFWA9PS66W0OX0PDYEQVO.uasset",
+    "bytes": 3934,
+    "sha256": "d8c96e741f0316ef4381b486e8e7ee997d389381802f9a1fb09f6064e8a09a42"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/2/T9/99323GUZE2XA328DH49VI1.uasset",
+    "bytes": 4603,
+    "sha256": "f8d17a6afbea443ebe825a1f60fb69ec6b29952e5a353da2d52416e806eedef4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/2/UJ/66W5A81WYIUWB2BFJP2DVK.uasset",
+    "bytes": 4543,
+    "sha256": "d6e676da3f5a96eaac96269696c800d3dd331e589052188e9c4d5b8d13a8673d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/3/A1/XPI9Y2JOKQDEY2RCY96O2H.uasset",
+    "bytes": 414573,
+    "sha256": "070c7cb28e23f3c7c07c3d14e467804b00d9fe462c4e3e9bd69d15037c696d8c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/3/FO/P9JIEF6DIF9GM8OBWIYJGF.uasset",
+    "bytes": 4227,
+    "sha256": "e2136d1c8ee602711c631b5159cb47dc1dab1e972d8a41e7f067ee395d00377a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/3/L4/OFXDGRJE323CDZZMNCEBQO.uasset",
+    "bytes": 4666,
+    "sha256": "7282e9495580ed5d55ce2f131c123a2840e9883b9dd72e2f3e1164a4605cff59"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/3/MA/4OPKS8TINFG6890XAJ2SI9.uasset",
+    "bytes": 4221,
+    "sha256": "eddfa7956929885a88895ba4e773683665033e7786d1bd54760e3b49ed97bb9d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/3/NM/U2EIGXP72MO5QNX2J0ADA5.uasset",
+    "bytes": 546130,
+    "sha256": "8e08c71ffe9aa1a13cff123ca142381b8ad7f1290ec5e6248745c4997710093a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/3/PB/DCZG76E0Y5PY39KWAQY9GD.uasset",
+    "bytes": 4242,
+    "sha256": "3416d25ccaea2acf94ed8fe60d01858fcaf3d8f7bfb65f327f67a02ba8a90bed"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/3/T0/VGXWZMBAJQI2R8DX6DF75Y.uasset",
+    "bytes": 4658,
+    "sha256": "6bcc49fbdbd6c2968f6581c96ffab9005116bfb5564abe4abfac23affac53c94"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/3/T6/9CU0NJPU2ZOD53Y3NIIDJG.uasset",
+    "bytes": 558101,
+    "sha256": "c2a5bb27ca4a4f33f37d73142b20a2a6b8e115d3520d2a58a721ce777e216959"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/4/82/9B7I3Z2H5W5XRD27RGL0BS.uasset",
+    "bytes": 456011,
+    "sha256": "8f6519fb450524c84c215fca384fccac43f0407dba795d9b891380a678fdd482"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/4/AM/24C80873OLIC52VMK6OPR9.uasset",
+    "bytes": 4388,
+    "sha256": "5ef32c1b96b20925ea51e6d9a12c0166c0f6c46161db9da50a254e12ef79fa36"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/4/JY/1N9FS6V8TFTMI6Y013X5FT.uasset",
+    "bytes": 568916,
+    "sha256": "09acb38b0bad27411ec04344db1c9a548d679713fe9c0062a2aa60c3185a66d3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/4/QV/VTD8VC0PVTGOYKZTLRQ7M1.uasset",
+    "bytes": 4227,
+    "sha256": "79ab295ccc37ee155fecadc1b5af6a8ecbcd898ca063b3b9d2a6d8be842e0841"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/4/U8/VQM9GMUJY11DWBGB9HSD0Q.uasset",
+    "bytes": 805658,
+    "sha256": "00882743e5db43113eb3bf8b011e086afb9e5423595c1c4bb40a1a6f265ebe67"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/4/V0/P09G1WUSRERJKODGWBYYSW.uasset",
+    "bytes": 509769,
+    "sha256": "505fb69297c3c3c42d04229b3ac0632c13c9c6d9346188a81a9651680d9f6e08"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/0F/94OBXJQ0VE2CB85YA5NTAW.uasset",
+    "bytes": 4233,
+    "sha256": "d0fc41592968d123f49c65164ed20cc5acfc2907d1ee9abb6bdd6c9a72cdde28"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/2I/JBTHHNI12TXITR7EJBXD70.uasset",
+    "bytes": 271353,
+    "sha256": "e023bfc828ad0f7d6d16caed1b75810158f28067411827bf6574a884fda6589c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/99/UCUCZXQSV5VE0KXP252DU2.uasset",
+    "bytes": 429726,
+    "sha256": "8517028a58dcf70f49b6722ef34322382bcd784261a43d3a55649a45cf02525e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/AK/WNLG1QTHRRNU97IZJRAT1U.uasset",
+    "bytes": 514601,
+    "sha256": "aaefec1101cb2dedc127bdfca5e8d360711bb1c6d177893b2ddaa1b4858a21e1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/EW/2PL7BXHSWLKUNPJAUT5TZC.uasset",
+    "bytes": 4662,
+    "sha256": "22c95c11ba684826d6b9e69f1f55d8e04dbe74296938cb119f437eb85e79ddbf"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/HA/YUU2K64XSRJL400K079T5N.uasset",
+    "bytes": 537671,
+    "sha256": "36a1b336835619ffd77726d53f932999cb69c59fc9dcdd1b094d1fa0ed38b5da"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/HZ/S1K0D0QUZCN008B5V1KOO5.uasset",
+    "bytes": 525852,
+    "sha256": "5e1c0ad07caad89a6872243db1f70abf67c965717a5b32b2632f7f4e2303e4fb"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/KA/H19136O0VBB4KYKZC8BELL.uasset",
+    "bytes": 426995,
+    "sha256": "783b8d98d006b2efea207f5871da9f23ead14e2520749474beedfd9439ff1d4a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/LC/M8GLA0YD72MPP35GT9UHM0.uasset",
+    "bytes": 4662,
+    "sha256": "e13f508e5d5fbbc84cc671d4b1d9bc872dfeae0072835e0496ba732fe512d69c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/OT/K56IUAD8RY59BGFLLVUW1G.uasset",
+    "bytes": 539749,
+    "sha256": "ca2bba4fe9a6ab5fe80ab0d5a4b040c1da381e3dd3db945994a8f678e26a15e0"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/P0/P0EF2BVJQHPJ8U208XBARC.uasset",
+    "bytes": 409246,
+    "sha256": "12e2d981f29abfad9e9c35adcbee2bf9f41374f15c378fa396ccf91a0fe1d466"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/Q6/VR6V6GP51GN8YOKHHL1MKH.uasset",
+    "bytes": 544906,
+    "sha256": "b36f2ac0e283a7e91901d997d438410c11f6513ef1b723bffe1686d23aaeaf6c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/R0/RH9DN92MBDL0OVFZWAJD8B.uasset",
+    "bytes": 413841,
+    "sha256": "7481a35f885af45d08b55473e3f03fb6b397ae1acc3353b7e92b91fa38ea53c4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/SK/85APQ2RF23WZH7BOCUL6H9.uasset",
+    "bytes": 256114,
+    "sha256": "d240d709a2b9bcb94fc13845124670885cd5d3679fe79d70193eb6fdd7ed9f95"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/5/UM/VU3TZ2FSS8VW30TI3TA1BP.uasset",
+    "bytes": 3622,
+    "sha256": "57c2b097573afbbe69be5dcc32081b73d3dd77c75b81f58d423c592c2258b840"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/6/8D/8OHPTCAWRVQG8AGSDYSXKN.uasset",
+    "bytes": 271684,
+    "sha256": "c36f19cf62a8e6ec94441569063fe9bfef0f852de9d5411b4d05cbf63262b7c4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/6/FG/JZNFK10ZP2VRMFUUSW15I6.uasset",
+    "bytes": 4222,
+    "sha256": "738b9df9865f3dfa7a9b90c31da21b6e4c2868880d5d67c6b6f29e5ec2255df3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/6/HT/URDMUYK918PVPZVSJ9DHQE.uasset",
+    "bytes": 4603,
+    "sha256": "761a14950e3378c333b609b0f3aa572f04179038d083a949d35f75b269fe9e71"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/6/IY/DIWDF1YBPML7JUOHAIX0AG.uasset",
+    "bytes": 546167,
+    "sha256": "0370faf7afd4d535079c1b5790a86ece09786188ae3df3a95813f036f4b69dc9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/6/J9/83UFTNXNND5NR6H41JDUO8.uasset",
+    "bytes": 542348,
+    "sha256": "72049db118c4fd4afc5845bde3b9a5e683cf93185de7b6cc2e090bfdb1f6192e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/7/5Z/GI1SK7J8FM6C8ZOAXT3L0W.uasset",
+    "bytes": 554771,
+    "sha256": "1333c026437915fd8205ef3849814451a3f261b38b5ed31edc9ea2e524723b04"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/7/9Q/0AURL4KWXEN1COGQSHCM9Q.uasset",
+    "bytes": 495060,
+    "sha256": "fb1a8afdc4ce0b0c2a2564a863d480463ae94a63cb08aef4e6f510acd9242810"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/7/BJ/2I3Z0RBUVZWPCHGL7SIYJJ.uasset",
+    "bytes": 11438,
+    "sha256": "61dfb2aa1f60d9c6c999775c732e21e7901d32f51a9f858ef3cc96b8d36e8a6d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/7/RQ/3J3H0E730JPG9WZJF3JPCY.uasset",
+    "bytes": 4394,
+    "sha256": "096f7ed51f86bf4f431a944d477a2599a9a153cbb49b9886c457277ac86d8709"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/7/SX/7GV0U5GHQTEQ14YNWQSNIX.uasset",
+    "bytes": 303117,
+    "sha256": "b9a995940da32b9ff6a191e8198b875ce283236836df0cfb22d6ca95d9cfddf8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/7/W1/8ROUR3V03B5TLPNKA5359C.uasset",
+    "bytes": 517371,
+    "sha256": "2fa10374491560cbb6dec464951b057eae859ca413e78173218281bc96423841"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/7/YO/2LOH6M5MJ29VZD826N8O0I.uasset",
+    "bytes": 533732,
+    "sha256": "799f1faa1f74a15cf3344e116f3c80bbc522ee7254b4164ee933245c8f38990f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/8/4F/3OAOQQJTJH1FDJJQTXPSLZ.uasset",
+    "bytes": 4219,
+    "sha256": "f9e813d9ec814961138797f4acb2d1aad3535e2df56b777318f192bca5f6f40c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/8/AS/GFVEYN9UPJIRU9OVUS9BHJ.uasset",
+    "bytes": 4223,
+    "sha256": "36102ed9a9a7163bcc11727cea604afcd2f43e746971d355e645c6233970d392"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/8/L9/9MQ0JXWQA1YT4OPI43E8J0.uasset",
+    "bytes": 4263,
+    "sha256": "942c444c19e499f54afc087cd596b80fadebeb3cae00730599e95fda291060d8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/8/MB/T4FGYV51O96HRJW1HVRQ71.uasset",
+    "bytes": 550446,
+    "sha256": "4ccce1db04b92ccfa866e6a2bfb657b0b8ab73cac1f00cc10e53bb19ec3da8ef"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/8/TQ/S0IK64ZDE58RMU2JZ98Z8M.uasset",
+    "bytes": 4670,
+    "sha256": "96d07ca9c5251bdafa40258e0f9c4ac12dd0ca8e78792e815b0f5d21b72e44f6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/8/YT/A2MQHC6PS7LUV4MGVTMZ0R.uasset",
+    "bytes": 4650,
+    "sha256": "68aa38353b40c4b2b1b9b76da2beadb3ee6d4aaa275450571ba79e7599362526"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/1V/LIT6SXC66ZOIEPMRAVOX7J.uasset",
+    "bytes": 5383,
+    "sha256": "05686538d75f4851a940e80d64eaa25fa9a5e1c907f4340121cc29dc7a07998f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/31/X17K2AE5J0SXKXXGALAEU7.uasset",
+    "bytes": 554216,
+    "sha256": "9ecbb65e775eccaea2e4cfd6c732a2340b994bf7f1eb516c499d29b48ca90c13"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/51/97VKNCEK7MKNNX89789AC5.uasset",
+    "bytes": 4394,
+    "sha256": "602d978e4fe2f76397c4c68165a053697e58dd4a406f69cbc070e48922bc4ef0"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/5C/GCB3ZFFKH8H0832FS594A7.uasset",
+    "bytes": 546058,
+    "sha256": "4de0703ca5cac8eedd632542c72837bd62d18c48405ce9491d07efaaea424b65"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/I8/BWFDQZ94HIK80M5T46VXPL.uasset",
+    "bytes": 4817,
+    "sha256": "73e1d1304f7d0785918e1e8671feb507f08b4db85ccaf065b4caf73d10dc34f6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/JJ/VCONVRDCBLKV73AVXOKJ21.uasset",
+    "bytes": 537951,
+    "sha256": "333a9a54f3c04de9cfbc4e9b9b4de7c745cf08e903cce4f01fa0952eb154b490"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/JV/SHI95XH5JYR0LP4GUJEV9A.uasset",
+    "bytes": 551574,
+    "sha256": "0f3f3930248e778e4a8c746a0ecf8068a6b9795f12a327bcc1321a9fd8d9ec62"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/KS/6J0FYYC6FCV3PS7XH2BG8C.uasset",
+    "bytes": 497813,
+    "sha256": "d6e2ee04197481e307725defb9d91ada09a86cf5ad5ba043698e19a98e581fb7"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/TL/77L0T2HPHQSK6RAHXQBEZA.uasset",
+    "bytes": 4227,
+    "sha256": "2ea40c753c7e119747b5966622b9dc630316295803e14b298bdb9c8f899003ea"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/UM/KKXCJA7J48P9XY3FVU8NLC.uasset",
+    "bytes": 528030,
+    "sha256": "2cbc1f2f76eee9a3bdeb587bbacca28be61a09381b6a1dc50ce5e3271d7f465a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/9/V3/HX2F86P58FMA7PXQGXKN6D.uasset",
+    "bytes": 4237,
+    "sha256": "3daab3acbf7a37d9dcd159c8ac6c3e7d9d25ca03632b82f7a388a8e7b0d7882f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/A/5O/MCH4U9JXJIGC8O19FUG83C.uasset",
+    "bytes": 554147,
+    "sha256": "27ca6d7a1950d51f60b160f446290db986b2ef8d409c24573c8d0ac83eea692f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/A/8X/MJD2AB0SOUXPTWWZBYGBD5.uasset",
+    "bytes": 4591,
+    "sha256": "a576eb20ad1229f7f44ce253fc39c62d2142224714a1730c1d7e9d7703495054"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/A/9Z/XK6TV4J6R0BBUKVNK0TUON.uasset",
+    "bytes": 4533,
+    "sha256": "620c1d3f4b9af43dc1189a319ad170d7f9269d6c72ec03088a12f625dc96cba0"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/A/AU/L7OONJQJY67DXD6MR6I6AE.uasset",
+    "bytes": 4227,
+    "sha256": "3527e2c607f5c46bd54b6318eee7b8a4dcf1b07465d9113bf2e018f906c4cdea"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/A/I6/3BOL68F1Q90Z117H9XDVJA.uasset",
+    "bytes": 479035,
+    "sha256": "ac5e4d0f94d68507ae8ab19e87a9750752e053ef4c48e8c6636e72b1942d21ae"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/A/P7/UU4F79M9K9QP4NNKFG9W83.uasset",
+    "bytes": 4585,
+    "sha256": "854fb15b893970f5252d01e850b41e31f1f015129993b14cdc4145e0d168e6e6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/A/V8/Y18US9RK6FXUH4OAIZK9MA.uasset",
+    "bytes": 3649,
+    "sha256": "ab3fa7d0b4809f5a28499fcf64bcc5c533b9d3d80c82b25f3e65556fb9b1e029"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/A/W5/B3OO76DI1OJ0PGDPD9W91F.uasset",
+    "bytes": 4388,
+    "sha256": "3f5934dfa8032088fa50d7d1857e89ab8c021d3210b42b193b1fad101868f0fd"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/B/1C/WB539OSQZSB460PK5TPAF6.uasset",
+    "bytes": 531221,
+    "sha256": "76b7a4e4bdf87bf068f2190f74e8cee18c1d86b5bc7ebb02b7b1e86e2cab9759"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/B/2D/6E3MAJQ68AKBXDD4PL5FH3.uasset",
+    "bytes": 517058,
+    "sha256": "59b3178f5c62c1fb40275a4ed0dae6894077637212b57615be98884c29eeda1a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/B/4R/H0C835E3WA4FKVOFMABM2R.uasset",
+    "bytes": 4221,
+    "sha256": "4cfa988a01c273e873683baf0c64be44ba048d792b60b6efa1d274f80d2038cb"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/B/H7/CX9AROFJUIJN26HXBWG9A5.uasset",
+    "bytes": 517180,
+    "sha256": "a4d66aa3448b45a4aa2c28a29f5b0a587cd9bd5bccbd57ee6449431df7dc86e2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/B/H7/WX89QMXORVYTSSKRIBQVAS.uasset",
+    "bytes": 575301,
+    "sha256": "44eda1d1c260afe4e2a416c9e5e1e84a8461e3dc07bd85a045f449641333bd0e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/B/NK/C8LTGTEFSRAI6AV6ZS7QJL.uasset",
+    "bytes": 536370,
+    "sha256": "5ac40f8776c82ee4e52b65cd0a30d18f42d9bcd671d252bc7794f9c2dac2bb3a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/B/Z5/BDFC3UE5RZFZAXJPE7NI15.uasset",
+    "bytes": 544279,
+    "sha256": "4097c031f122843e780406350794c2bfcd04f319af2362c9dee3cedee698225f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/B/ZS/4S2NS6W0NMKTF9UIHXOQ3D.uasset",
+    "bytes": 5885,
+    "sha256": "593523f472ba396176cc8127e2461aaf32ae5fb8d2800aa66028cd68bd5cbb3c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/C/5B/ZRXYLHU98ORN7K14MHI9G9.uasset",
+    "bytes": 4597,
+    "sha256": "b60bf9486f810fc0b64e366258b5f764897d2591f6bd3284c27d103b881e1a4e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/C/DN/FM1P7CACVOE7OJW9ZCR2FK.uasset",
+    "bytes": 539902,
+    "sha256": "3163f07992ad440941d548db87d686535d611ebe695f48e8e1695b499e091a27"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/C/UZ/N4BZJFTEBZMXXAN319XVA6.uasset",
+    "bytes": 544715,
+    "sha256": "e29f461167ae668c47e0e232d87b56887b4569174a75a88ebf0d3325acca5262"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/C/V7/01YQ9ESYATO7LSLM4CKB55.uasset",
+    "bytes": 4233,
+    "sha256": "daaaf5d5151497e34adeae397192de8f284fe9f681c99a2a325c997dff736dbe"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/06/3WCFVJ9TPCPHPHVUVJGOKP.uasset",
+    "bytes": 4660,
+    "sha256": "464a35d9f1f23ed4e24fe1f40589c57c8df7f5418dd7a9305c8b8e0b15b15c69"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/1H/G5ABFE3YG2DSO28A6V37VA.uasset",
+    "bytes": 542251,
+    "sha256": "47ba52f44d5cf10b3baf164fe1083ae6e49eb30226f3c1ff0a1f018e431f7316"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/2F/8WO9H3GRWZCPF9XX1G1GM0.uasset",
+    "bytes": 521514,
+    "sha256": "06f0a64e0808988480dfda2c1db951731a5d7c89bf8efa987343ad243f4d2b20"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/8P/RP5KX1S18GYQM6AA826BK3.uasset",
+    "bytes": 4662,
+    "sha256": "8cd628a8cf6b3e319b985a867406bc9667ba9e35d0df207b4f5613670527db6a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/A6/OQBE1PJ9X491QNM9HYEOLX.uasset",
+    "bytes": 581296,
+    "sha256": "a9546d071df9a9b11c3184fbc5491e425144593d88bd981b7b805da25974a5ab"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/HL/88CO8D3HCHTR0T4GVWQTBZ.uasset",
+    "bytes": 4221,
+    "sha256": "41a848bab130fb2d06d495259a017a78164a76e90882f4e757a0a83ae168a718"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/II/U795G79VMZB7066WN292U0.uasset",
+    "bytes": 4221,
+    "sha256": "345da067fa087f7728a28cb2916c105da47fb1b64103af981f467ab53ddd901b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/JV/H5N1WRYOB8G110GVAVOLY7.uasset",
+    "bytes": 516537,
+    "sha256": "5713f637519ed15decff98d1356f671a1dc68642d4829e0c2cabcc184d3b5a14"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/NM/0IS4Y3SV0JAPKZ6SAZXLWO.uasset",
+    "bytes": 4658,
+    "sha256": "95cbb009b2697fb6f0c753278e25d79e3f674a14dd0699c4657edf75abecb2fa"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/W9/D4377OB1D3DQUUE27KP7JC.uasset",
+    "bytes": 4593,
+    "sha256": "38d50c119cf0b7f0379a426b6039c808a8142640b8211bfb44dbfe167f8d5511"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/D/WG/Q0K9HSNQ75YIACPP375P1T.uasset",
+    "bytes": 536568,
+    "sha256": "8fcb3cc41c893ea6d011d53e70b7d353fdcd2f4f43cabfdfb8e12ce93fb262cc"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/E/C2/MFUTEYI0H72IF5Y75BVXVN.uasset",
+    "bytes": 4335,
+    "sha256": "2db02bda3767330dffaa7aa751c1413905d4bb09a89e59f89d82c998f66f398d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/E/GI/6WR8CLCE40JPQJXBWWYLUA.uasset",
+    "bytes": 542448,
+    "sha256": "6a3c3ae44679f17fe8294eabb38e8200330c1a70fbb3fd678e71ac87dba480f2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/E/HN/MSKYS6T3T7EHG5J04OS3SV.uasset",
+    "bytes": 4660,
+    "sha256": "8d8e9299f87fee601b5257df83b9f3b0672027eb09fc929f68a5a66cf6735a85"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/E/M7/73D9ZFEFOQW2ZNHHHW4TOD.uasset",
+    "bytes": 4221,
+    "sha256": "f867c0f38937e6f530ff8039ed707641c6eeb2ea625591ecd6e41c37536df46f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/E/OJ/86HQP6DUIMJJ96HJS781VC.uasset",
+    "bytes": 516133,
+    "sha256": "0e03db5e4b95e3245ce3ff767b85d685c543a9f5eaf0d3a3d8cd1c3d0873fc7a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/E/RV/YEGVUFTVNVOBEV86X7KWUX.uasset",
+    "bytes": 4597,
+    "sha256": "c4cf81936a6d4967da83ea27eb353b6fe2c1a42c0a4ec132766bc4d917f92055"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/E/WG/TC1FFXZ12IZXYFPK77F9PQ.uasset",
+    "bytes": 4660,
+    "sha256": "060a949ad58e77961893febf063932c98b7a51de79b5456825c42d5007715ddc"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalActors__/AdvancedRealisticGlass/Scenes/DemoScene/F/2P/UT9CP7D2EWLXH1MLAIDAVB.uasset",
+    "bytes": 2478,
+    "sha256": "7cfd00d747493b2f3ab84e71e419ffb817609517daa5c8cd57e59bc640da690e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalObjects__/AdvancedRealisticGlass/Scenes/DemoScene/4/5O/P87J7X98QSMYAAECHZRTRW.uasset",
+    "bytes": 2287,
+    "sha256": "1cfff6d3941607840cfca11f131fefc9a6191cc994f5224f2ff637677cfe2a9a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalObjects__/AdvancedRealisticGlass/Scenes/DemoScene/5/06/F8IEPLM3FAVCNPDD1R3K7M.uasset",
+    "bytes": 2305,
+    "sha256": "1732ee993e2fe27795b9f936475dd198435544171b926c5160db784a5f1da32a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/__ExternalObjects__/AdvancedRealisticGlass/Scenes/DemoScene/6/QM/PRG7G05NERKPGISH9UNJQP.uasset",
+    "bytes": 2291,
+    "sha256": "912cf0930f98bc4be9e2daf0e788622d60551e6744116a9b9255d1c9ea4cba49"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/MasterMaterials/M_AdvancedGlass.uasset",
+    "bytes": 194188,
+    "sha256": "cd398b13f71720418e2bdbb7ce2df183ab3966837d7b3b59eac98ca2cb8ed336"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/MasterMaterials/M_Color.uasset",
+    "bytes": 9604,
+    "sha256": "bb35db4b2a9df2fdee53250997d1a2eec58885388011d5993ed8f191a8c114df"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/MasterMaterials/MPC_AdvancedGlass.uasset",
+    "bytes": 1919,
+    "sha256": "c01b53126e63def02b27f0ddbd1e47208425a757b352ec763833ffa868471a2e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassClean_01.uasset",
+    "bytes": 22827,
+    "sha256": "f7972ad71564a4ce7af46b3f56176b17f63b6e7d25ddb78d0e8ca85a432441d9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassClean_02.uasset",
+    "bytes": 27414,
+    "sha256": "47bc8f2d19ef44c51a03bdb12a81527eff97b716b44d0902097a6fe8a182b207"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassClean_NoCaustic.uasset",
+    "bytes": 22672,
+    "sha256": "ca853a07187540a45316b038405af184c7bdc0d0dd0061322487348278762a39"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassDirt.uasset",
+    "bytes": 27917,
+    "sha256": "0d80f7216d6b31cf47adc98263de535de5bd21c8ac0f6c51cb9ead8426e66ba1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassDistortion_01.uasset",
+    "bytes": 25618,
+    "sha256": "4879e3914046973a8578fea6fd6dd1fb49fd03ad6d200e1d1a72638587cadab1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassDistortion_02.uasset",
+    "bytes": 24408,
+    "sha256": "998ebe8092141b408872f4a9e61a17a0c0019868a0161a1ef881180f05097736"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassFrosted_01.uasset",
+    "bytes": 34860,
+    "sha256": "db672004dbb54ad151939e9acec11c56cb66a4527a2f091454f2d9788377f0d3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassFrosted_02.uasset",
+    "bytes": 31674,
+    "sha256": "dc1744eae0007c9ca60792edecf11b8a560672142bd55f9fd403fb41019f817e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassPattern_01.uasset",
+    "bytes": 30254,
+    "sha256": "21ba5a47c766ee6a4b2fab3cca29df5e8c3404fc3679c8b93580b00c8a61172a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassPattern_02.uasset",
+    "bytes": 28072,
+    "sha256": "e71095ecf30e6d7a06506a2650cd02057dac5cc9e4e8de87527393842319093e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassPattern_03.uasset",
+    "bytes": 32931,
+    "sha256": "7b048f26d6a2b2958c4a223ec0cdc03e5a60187e57cab96cbd339bcb5bec015f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassPattern_04.uasset",
+    "bytes": 34301,
+    "sha256": "041d74d1c23b4320db4fc6529d75e665e38760a9bb9abb251b41300d040d5825"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Materials/MI_GlassPattern_05.uasset",
+    "bytes": 27442,
+    "sha256": "3ce5702981db4f02fb311a38c3285b44c47080c9ddb19e315dfbf79dcd08e42c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Models/SM_MatPreviewMesh.uasset",
+    "bytes": 1959984,
+    "sha256": "74fecec5b759f1d1b4713131a2d2af3b5cd25cf8e0ddbc57a75319609014b76a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Models/SM_Quinn.uasset",
+    "bytes": 6274566,
+    "sha256": "42f38d7914488613ed3a77f9b0a6ca5a738059b02a1cd536c70a2cab97162445"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Scenes/DemoScene.umap",
+    "bytes": 12121,
+    "sha256": "210e0e6f7c0e43f3311b75e80a05d5b6724b45bddc33a91eb0d2a6e7a13a1d5b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Scenes/DemoScene_HLOD0_Instancing.uasset",
+    "bytes": 1762,
+    "sha256": "ce7ad201c78bdef0d7bffd8dc2ef4303eae5dea6fa445b465d8fbf658effe0d4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Textures/T_Glass_Dirt_M.uasset",
+    "bytes": 11772069,
+    "sha256": "e9fc9c4402d2936cce6ea34029095d56b4335b73aa0e88f940c93d8e461d75a5"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Textures/T_Glass_Distortion_N.uasset",
+    "bytes": 10928992,
+    "sha256": "3843f881d0724e1bd0285ddffa343e6951812e72596b18996fa51587421ab3ef"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Textures/T_Glass_Pattern_01_N.uasset",
+    "bytes": 12713426,
+    "sha256": "8590790ee9643d19d679dc611f3a1875a8eef7884f7509ef2c1bb516005d1b16"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Textures/T_Glass_Pattern_02_N.uasset",
+    "bytes": 11649246,
+    "sha256": "eb74c17283cc80e7257589f92764f8000d146690dd1f87f0258c79bbe9332366"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Textures/T_Glass_Pattern_03_BC.uasset",
+    "bytes": 7403174,
+    "sha256": "86a88dbcd05fd969403c8d54925d780523b77b493133ec7cfac913988df94f36"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Textures/T_Glass_Pattern_03_M.uasset",
+    "bytes": 453024,
+    "sha256": "e348324b9c2b66c8c1d1bf09c7e2c9a38a5a1aa05da734a27eb63b2cc39e6502"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Textures/T_Glass_Pattern_03_N.uasset",
+    "bytes": 26542293,
+    "sha256": "274307a77f7edd6c8e4e0a3e81c292d4d8e957e34f876249aa1f05f20d2ff20e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Textures/T_Glass_Pattern_04_N.uasset",
+    "bytes": 11008168,
+    "sha256": "5e582a85867a45378f7ee8d6607820acfdde32263270db5b4543a03ac0fd92a1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/AdvancedRealisticGlass/Textures/T_GlassBlurNormals_N.uasset",
+    "bytes": 28594925,
+    "sha256": "f2d820c443a094857db740587e0b587d74105f43669632eaf3ca15fd7b276459"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Base_Material/InteriorMappingFunction.uasset",
+    "bytes": 309623,
+    "sha256": "1c52676c2fafa05eb93068766de93534bcf721cb063e52e5717adcfd3bfc1560"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Base_Material/InteriorMappingWP_Master.uasset",
+    "bytes": 138342,
+    "sha256": "e82683e9d8c8f3de82293958857eee85c7416ab48583ec4eef3d22ae7f983f8e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/EnergyShield/EnergyShield.uasset",
+    "bytes": 21205,
+    "sha256": "cf6c8bf7b670c094eb49041267a6dfcdcf3eb474e899b0323e5d048f4417ee02"
+  },
+  {
+    "path": "Week09MaterialLab/Content/EnergyShield/EnergyShield_Inst.uasset",
+    "bytes": 12240,
+    "sha256": "b3c475a4b192ca3d162343dbff44d84c0253a75d4ce64197a7ea32f34b065e47"
+  },
+  {
+    "path": "Week09MaterialLab/Content/EnergyShield/LICENSE",
+    "bytes": 6555,
+    "sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ExampleContent/Material_Nodes/Textures/T_Bricks_D.uasset",
+    "bytes": 11322431,
+    "sha256": "53f96bdbe150e575766d161a3979b806cc7f3764c6d28227ab5478d8dcf61903"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ExampleContent/Math_Hall/Materials/M_MathHall_Mats_WorldAlignedTexture_01.uasset",
+    "bytes": 132557,
+    "sha256": "0a79a1cf18d34c2f7324dd8247f04b5c95363593fe96f79f963038924a5a3478"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ExampleContent/ParallaxOcclusionMapping/Materials/M_BumpOffset.uasset",
+    "bytes": 27884,
+    "sha256": "fee7ed2aaffb4ac1065cb1e45d6a3243f63e90f6bfef12b9e0499a91c64442ad"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ExampleContent/ParallaxOcclusionMapping/Materials/M_Parallax_Simple.uasset",
+    "bytes": 34023,
+    "sha256": "f96962db74bdcba4b6c44a9f31373fe2a45f31d9e912c0de7e75a9c13959021d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ExampleContent/ParallaxOcclusionMapping/Materials/MPC_GlobalParam_Test.uasset",
+    "bytes": 2763,
+    "sha256": "a5ae827a9317fb70cd5bb867727c202fce250bdffd6e16e315a97d61b8f0069c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ExampleContent/ParallaxOcclusionMapping/Textures/T_POM_Test_01_Disp.uasset",
+    "bytes": 27958,
+    "sha256": "0a6e1f24ada2e5459de1882bb9cd257de5a12d1a1e4956a88eb18eb7ce05efed"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ExampleContent/ParallaxOcclusionMapping/Textures/T_POM_Test_01_N.uasset",
+    "bytes": 65646,
+    "sha256": "16917fb795781f917f125c40a77fc8b8394749f993ec8a4e3a62ee76d8b9d88c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ExampleContent/ParallaxOcclusionMapping/Textures/T_POM_TilingRocks_01_D.uasset",
+    "bytes": 33872902,
+    "sha256": "a802573b170bd0a3e4a411d7ecded40cb8b6e73a1214df1738335eea61a47769"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ExampleContent/ParallaxOcclusionMapping/Textures/T_POM_TilingRocks_01_Disp.uasset",
+    "bytes": 2680515,
+    "sha256": "5957ef05d5f032bcb48a8c21df9d7b152a85e51b07997e853bfdc4b99c1866b2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ExampleContent/ParallaxOcclusionMapping/Textures/T_POM_TilingRocks_01_N.uasset",
+    "bytes": 40912809,
+    "sha256": "8095e590904e768a722e4e2db3476a11ecd4a829fbf1077a38020f9b34b2e642"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Main.umap",
+    "bytes": 36740,
+    "sha256": "838acc4706da4aec3615217c10f869afc1c99b6816107aef0bfdea07c207bf85"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Main_BuiltData.uasset",
+    "bytes": 1246,
+    "sha256": "f33f7a66a9e2d8962e70cee6ba49ca1fb8bcfaabbbdd578104810e3a71aa378d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Material_Instances_Examples/InteriorMappingWP_R00_L_day.uasset",
+    "bytes": 116593,
+    "sha256": "20e737507e06040c0f7053d0995b4004f0275ed2f1a5bf219b761bd78bc486f2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Material_Instances_Examples/InteriorMappingWP_R00_L_Night.uasset",
+    "bytes": 125284,
+    "sha256": "1bedda3c3f985a6362bc00602cff31e168c40db18ac61cb2bf91f9d639cc9679"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Material_Instances_Examples/InteriorMappingWP_R00_S_Day.uasset",
+    "bytes": 116423,
+    "sha256": "ea8f4d033ed3288872bfc8fa43431eb23cf185357c182951735a54366cc7f0a9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Material_Instances_Examples/InteriorMappingWP_R00_S_Night.uasset",
+    "bytes": 132196,
+    "sha256": "95890ca7619c435accdec876e4009231eb454bb8f755a6a50f6cae0c37216e5b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/CameraDistance.uasset",
+    "bytes": 13271,
+    "sha256": "6e3ecd237640143af60759f01cae01c63832f8a84443622f41483270a3fd7036"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/ClearCoat.uasset",
+    "bytes": 15397,
+    "sha256": "3b76e080191fc78332831659f80d5eca3e5acbb851254aceaf322984a8095e76"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Color_Fresnel.uasset",
+    "bytes": 11013,
+    "sha256": "19e83f3d3d14ac2d84a5b2de09d521b207c295bb75ddc0b450d440d6ddc7f0bd"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Emissive.uasset",
+    "bytes": 25577,
+    "sha256": "109c08b87e01f92252911b8d2211f54644b5185888664623d5da6c27d6eee5eb"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Opacity.uasset",
+    "bytes": 18524,
+    "sha256": "e5b3000a74197984178edd80495ebaee5379206d39cfb75c4ee5fd5bf4b8c078"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/POM.uasset",
+    "bytes": 15309,
+    "sha256": "db7bd3536fd383f6038e58a251f93ff95c71f1d8979c56c6a6bbed7a8e9dbad9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Scene/Color_Fresnel.uasset",
+    "bytes": 11058,
+    "sha256": "d82b7eaeda9366529df2e2dc1a692091cb127781a744ade21f4cf5bb5dfa9913"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Scene/Surface_Basic.uasset",
+    "bytes": 10772,
+    "sha256": "9e75168f0b2f0fdebd129bb12867a5514ae226b3f3b4e114cc97632a8520d3ec"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Subsurface.uasset",
+    "bytes": 13739,
+    "sha256": "423f7cccea706913e1702853dd11ad685c603f2b3154d1670b0fd85731a79ea9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Surface_Adjustment.uasset",
+    "bytes": 15789,
+    "sha256": "dfa6035b785db3349191a049bb4bdf61ceb56d276b8c6c4e63ce4a3172dcc491"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Surface_Adjustment_VertPaint.uasset",
+    "bytes": 22844,
+    "sha256": "78a219c65b91f84d712ac011b2e3912955a8ea6ca4f1a18805b7dd3cbcdf35ae"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Surface_Basic.uasset",
+    "bytes": 10862,
+    "sha256": "41681364ba3ec757bffef1e9f1246f5e41e24b9fa6d8320a16b2662531ca6f70"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Textures_PBR.uasset",
+    "bytes": 13957,
+    "sha256": "4ea2648dbe2c049c095d6019fa390fd3d10c0bb7f07d726521209b9523fa0fb5"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Textures_VertPaint.uasset",
+    "bytes": 23786,
+    "sha256": "07c384b711bdf7d0ed48180ebcf5cec64332a22d4c720fecab54813f3fc0c346"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Functions/Textures_VertPaint_HeightBlend.uasset",
+    "bytes": 33709,
+    "sha256": "69bde6277a34e721b963508c691f69af7e7d4f48f237297c8eaa85d3539ca44c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_Basic.uasset",
+    "bytes": 10059,
+    "sha256": "7a6f07e999bd389ab07fe723eb9b411916d295a944f24ed6134b71745508dd72"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_ClearCoat.uasset",
+    "bytes": 17705,
+    "sha256": "07fef2a848e954e228af68b4b263a08a94df8b33c7bb377f3cb4aa78c60c4e86"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_Emissive.uasset",
+    "bytes": 15577,
+    "sha256": "2319cb2b7652a351d477e47851aeec253fdb15d18c8162dcbf3c706a9606977b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_OpacityMask.uasset",
+    "bytes": 15318,
+    "sha256": "934e99a6a80fa7b920871041ac25b3e232279de3bad8ce5107705cbb252d03df"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_Panner.uasset",
+    "bytes": 16716,
+    "sha256": "65b169e3f5a622f19352159c7eb6ec7c3f6944f1423136ec3f5f79766bbdbd54"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_ParamCollection.uasset",
+    "bytes": 8117,
+    "sha256": "cfa84b157dc035506ef429e258f0b2238b03d78ad13b352015faf3780f2a2319"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_PBR.uasset",
+    "bytes": 16535,
+    "sha256": "223955bb1555be496dd54754296bdf872859a356d1c084241f6a9e84410fb7e1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_POM.uasset",
+    "bytes": 15708,
+    "sha256": "32c432127dd2e133a072bbbfdcd804c8450b2b06c1966d62ab18caf658eaa616"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_Subsurface.uasset",
+    "bytes": 12053,
+    "sha256": "2c88378ef2ed1e7815e673938caac96aa5e44899e5b2be0d460fdaa6bfacf4b0"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_Translucent.uasset",
+    "bytes": 13371,
+    "sha256": "71ad5efacbd2fa8b12e16eb32d8affa29de174a7c03e85c93233370dcb899b3a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_VertPaint.uasset",
+    "bytes": 15935,
+    "sha256": "a21a7890064179298763d33d908412f6fd02c08cff421c1a94fceccdaf9ae0b2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Instance_VertPaintHeightBlend.uasset",
+    "bytes": 18179,
+    "sha256": "27d7a41046ec8f85de9e0ccfdcac7adecc90ac87be056a399326fa41f2fd90e7"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Scene/Instance_Arch001.uasset",
+    "bytes": 13558,
+    "sha256": "f6a3891eb811f13e937ba3048b10c3734346304663bb77cbe434d63ef23714ce"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Scene/Instance_Beam001.uasset",
+    "bytes": 11442,
+    "sha256": "35abde252d758e16c2fb6572a4f5ade7e1da29a8862c23922038a9cecb74f75c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Scene/Instance_Floor001.uasset",
+    "bytes": 17584,
+    "sha256": "31e26c3df6cc877cf9f6efb4c4cff94318918758e2ac23772760cf7b5ee3eff3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Scene/Instance_Platform001.uasset",
+    "bytes": 11686,
+    "sha256": "feb51785f45baddeabe1d598faa6e69f6e53c129d6a3b8a1ea51c12f14963346"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Scene/Instance_Wall002.uasset",
+    "bytes": 16074,
+    "sha256": "7a1b69c102351ac3eb3fd1d280b46aa214a40625f867790c31b6a1c6242dbbf2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Scene/Instance_Window001.uasset",
+    "bytes": 11622,
+    "sha256": "8cbe985ec3f35cb4f3f137478126ce6d6f59254b411725e4e9a85d7da8ee91a4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Scene/Light001.uasset",
+    "bytes": 9060,
+    "sha256": "7800624f2ae82640e5eee77d756ef474a2f9495ac81c9ee854987d4093076dcd"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Scene/Solid_Grey_001.uasset",
+    "bytes": 8916,
+    "sha256": "1859071d18c3ca49669de7d229178416e03074f2c8177e53ed2f16f60fa0b7df"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Instances/Scene/Solid_Grey_001_Emissive.uasset",
+    "bytes": 9063,
+    "sha256": "33e3a3f756ed8eb1e39ac1029d357de07918e517854780127f5505e22e6e6ea9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Master_Basic.uasset",
+    "bytes": 10346,
+    "sha256": "e28654abad3d39137b297e1cdea70218d65fd252ea2fbd02142352c22ee4a0f1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Master_ClearCoat.uasset",
+    "bytes": 22314,
+    "sha256": "b9bf0c926a0f551737446d6298ab7c3952cfaf171c7e56bdfcc6117c1d459341"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Master_Emissive.uasset",
+    "bytes": 8415,
+    "sha256": "016fd669afe7a738889644c2e12062ce19de62db695ab2b1342de0eac6667f7d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Master_Opacity.uasset",
+    "bytes": 16114,
+    "sha256": "234eef68261700438f10d8dd31293c1aa6eb03ec2e8b1172166a59ad85b0151e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Master_ParamCollection.uasset",
+    "bytes": 13396,
+    "sha256": "c0229757337e9e48cb562a71ed83a6a23fff175e396f8a0a70981e2366a805b8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Master_PBR.uasset",
+    "bytes": 15373,
+    "sha256": "a206d6c4d4358cdec1b50e9f5b84c1cd71177d9a7cc85753b26c09499c94aa05"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Master_POM.uasset",
+    "bytes": 29298,
+    "sha256": "95f24f7b3ea326c04fe65038a7d373e7caae82c7a8690f181b173af8db698bd8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Master_Subsurface.uasset",
+    "bytes": 12510,
+    "sha256": "5ace0db806e22256d9816e265b9d74e6356fda68050d38bdd16f65d2f83f24e5"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Master_VertPaint.uasset",
+    "bytes": 15281,
+    "sha256": "8f5ee33f975d3ea6878f1b38b18ed98cb70ca4ea3c0864a13208290c6a3c78e7"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Master_VertPaintHeightBlend.uasset",
+    "bytes": 15523,
+    "sha256": "d0cb5e81d61bb4eddde52f82d833147d6fcfc9c827dfdf878e3ec96f25101add"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Materials/Scene/Master_Basic.uasset",
+    "bytes": 11442,
+    "sha256": "eaf4b9120c89c5efc48bf0e3bbf54a0107939da373ebc0d613a12dc7714c987f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Meshes/Generic/Plane.uasset",
+    "bytes": 15245,
+    "sha256": "ec781f22791edda25280c778e0b513a1612f0a910777536f0690681c564da486"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Meshes/Scene/Arch001.uasset",
+    "bytes": 19167,
+    "sha256": "a2f81a721b702b7e8a15dfac231c5a936c30ff46851bc39405496626db60f1b9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Meshes/Scene/Beam001.uasset",
+    "bytes": 112501,
+    "sha256": "05d639638e34d4c90a81795a31c83a425e78f1fc54548c3871406c9cfc1d7aae"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Meshes/Scene/Plane001.uasset",
+    "bytes": 14458,
+    "sha256": "aadc53cea82f13122bd92156cabcba9c554aaeb3c7f6bd2f2000dc1be1df0914"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Meshes/Scene/Platform001.uasset",
+    "bytes": 414381,
+    "sha256": "5c2548c801f19008a5bbeb3b2676ce1a0f40b30d7e3920eb0a1e4f503671f9dd"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Meshes/Scene/Shape_Capsule.uasset",
+    "bytes": 87232,
+    "sha256": "fa060d4aaa1b5971e72956720ec814c81c7d2a1a5ea0ec3ee78372e4af341707"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Meshes/Scene/Window_001.uasset",
+    "bytes": 432452,
+    "sha256": "afd1d626faccab6165189af38f392e67f8cab4e7ca86fc4e5c4240fd6760987f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Meshes/Structure/Basin_001_Basin.uasset",
+    "bytes": 111458,
+    "sha256": "7ba10bef7b375b9afd2fa7eb13f6d02457684d556d666803b52f6005f15224fd"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Meshes/Structure/Basin_001_Frame.uasset",
+    "bytes": 92713,
+    "sha256": "d8f99229017b4f4029d331a5932cb29ccc656ffaf684948b1b4b5a7a05d54051"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Meshes/Structure/Basin_001_Hemisphere.uasset",
+    "bytes": 106831,
+    "sha256": "ab0934c73bfab75473c926d718bbd725cc81036f346d008ecba1f35ae209d93d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/ParamCollections/Params_001.uasset",
+    "bytes": 2591,
+    "sha256": "00afb6a36e03e7d8db6553afd949bd68a7e6b0571d6a6ffb0dc61215d1806333"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Python/init_unreal.py",
+    "bytes": 83,
+    "sha256": "ddb2f031ac47f373a53e167fc780ae9b05259a6d57f7eb0275140e711a764718"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Python/week09_collections.json",
+    "bytes": 1991,
+    "sha256": "5ea53c2d485fe55f0c421b74c88fc30d4ca5a33d716e4226b07e8a96ad4be111"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Python/week09_tools.py",
+    "bytes": 5159,
+    "sha256": "32e97893bf42f2e40589431ec4134322c8599a579c586ddc036a4b83a10c1d92"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Sequences/MatShowcase.uasset",
+    "bytes": 21901,
+    "sha256": "6a4e93904ba9fc237d984991700db02eb1bc51f3078680db51032c2cf2897806"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Sequences/MatShowcase_Promo.uasset",
+    "bytes": 26614,
+    "sha256": "fa70d49b20fb3e233baf36bd8371bf780eb0cbaa0498ecbe29cf7c379d8bbd9e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/EpicContent/Materials/MF_DetailNormalTiling.uasset",
+    "bytes": 52169,
+    "sha256": "57c69072a925d268697a1d29dd144d37d80d0cd1b6c82d787a4c8a60de7c3b37"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/EpicContent/Materials/MF_MapAdjustments.uasset",
+    "bytes": 102525,
+    "sha256": "5c66e239ce17308ac9629da93104af699611e23d66ebd76eda69efeb097b6073"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/EpicContent/Materials/MF_Tiling.uasset",
+    "bytes": 52392,
+    "sha256": "7bf6182cbc1c9cfc58064f11fe36e51d161923bebdfba6044d1c890dd37ee646"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/EpicContent/Materials/MF_Transmission.uasset",
+    "bytes": 73961,
+    "sha256": "ebb7ed989e009cf0c7c1a27cbee8a9dde85188c90b0759a0d2efadc5fab070f3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/EpicContent/Materials/MM_Default_Mat_01a.uasset",
+    "bytes": 113510,
+    "sha256": "338cf82f14098a82c30a2e9e06e083a52aa1e343a0b6f19875e79842dd9f2c50"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/EpicContent/Meshes/SM_Old_Wooden_Figurine_01a.uasset",
+    "bytes": 397925,
+    "sha256": "f403c17879b11fb382890770a49f98a363a1c5508d4f3eb27ad6aa5e83795e5a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/EpicContent/Textures/TX_Albedo_4K_udrlfbwjw.uasset",
+    "bytes": 13288701,
+    "sha256": "f1810df79604e87dae4db117ca79493bde01754cb7cf67a94818149455b634fb"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/EpicContent/Textures/TX_Metalness.uasset",
+    "bytes": 5854,
+    "sha256": "bf2ff9fca8e04239afe85c562642829488dd18e6c350d54bcd11f58c803c35c8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/EpicContent/Textures/TX_Normal_4K_LOD0_udrlfbwjw.uasset",
+    "bytes": 23501542,
+    "sha256": "9736ffd694e1de2e305be9a5f10042ddd392268a05e18d9e38803e869d300ce9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/EpicContent/Textures/TX_Roughness_4K_udrlfbwjw.uasset",
+    "bytes": 9199832,
+    "sha256": "5e61de589f9cf318648ca25ed63f8201d98b8151ec62556097554bffcfb16f01"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/Materials/Instance/MI_Figurine_01a.uasset",
+    "bytes": 115302,
+    "sha256": "135a2ae9ae6696a0b2818bfd5ce0ad320e78694e0d9d4f6ff7e905394bd24079"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/Textures/Tileable/TX_Wood_Panel_01a_ALB.uasset",
+    "bytes": 102979323,
+    "sha256": "3024644a69aac615978f369894ca3bf9263746902df733c70d932ce7f9c3a0bb"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/Textures/Tileable/TX_Wood_Panel_01a_NRM.uasset",
+    "bytes": 94893914,
+    "sha256": "eed0977beefba1f40f7a688b944a2b53e8a284bb3406398348a6ec8460738b99"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Showcase/Textures/Tileable/TX_Wood_Panel_01a_RMA.uasset",
+    "bytes": 33936958,
+    "sha256": "3186c09549ce2fc3ab1f03475c9f3f8040f0260f6d08bafcbbe41be960bfc6c8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Slime/Maps/L_Demo.umap",
+    "bytes": 22879,
+    "sha256": "1d158c8336dde61f4244727b4601af1b60d08dea674c4cc20ec2bcdda40c5aca"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Slime/Material/M_Reactive.uasset",
+    "bytes": 16046,
+    "sha256": "bc076194e21b75ce57c822fe0cb97b9ca4b1b9fd41eb988e63b3a29419cbe608"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Slime/Material/MI_Big.uasset",
+    "bytes": 9789,
+    "sha256": "85bc65de31ec0ef4e5a0084f7d92f955c05e20d27bc5e40e992337d0bed58583"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Slime/Material/MI_Light.uasset",
+    "bytes": 10438,
+    "sha256": "7f9f17a490a653171a7df190b39078a13f224cd4b4a7b56b1eecce60b105e01d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Slime/Material/MI_reactive.uasset",
+    "bytes": 10770,
+    "sha256": "6ff5246396de53675baa9e2f37ae62c16163de3e836a34cf65d24aae92d8a0c1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Blank.uasset",
+    "bytes": 4177,
+    "sha256": "36447adcaaa8663729afb9fe870833a583356c72198148fe7ebc8063c1043eb6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Blank_Normal.uasset",
+    "bytes": 4510,
+    "sha256": "26f759721c22cc881ff6d168386e9b668ee6ff07011e09859f06b119e9788994"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/HDRI/Studio-White-Soft.uasset",
+    "bytes": 3484054,
+    "sha256": "e8815038e9d4b19ca2e573f30cd8f71faedf9c6da773fd22c663faeb81adddca"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/HexMask.uasset",
+    "bytes": 63388,
+    "sha256": "8472a990de42fadf321be588c6246fe88fab9ae0f28178709b5d21d804f16f2d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Normals/Normal_Water001.uasset",
+    "bytes": 209658,
+    "sha256": "bd60e14618cb137a710ae43f1f2535e3833559f9803fa380089fb5a18996d0a5"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Normals/Normal_Water003.uasset",
+    "bytes": 387043,
+    "sha256": "644a3f41e7fd6e845f66b8023b91e2bfbc22cf4b7b474cc33d1e681e7e363218"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Normals/T_Normal_Water003.uasset",
+    "bytes": 333203,
+    "sha256": "a7e1281c99313ff932036b126ff40a1b5f74982eaef8a187b3d2921ee715f4c8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Pattern005.uasset",
+    "bytes": 334218,
+    "sha256": "4c63b84d4b17422e02b7f5ea20cb4680b329c5ac11a5deabdb887419092b5572"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Pattern009.uasset",
+    "bytes": 82816,
+    "sha256": "39ce456617750767ac2eeda4179cf31969e79b790a68ecc6125ecd62c0f0319f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Pattern010.uasset",
+    "bytes": 170362,
+    "sha256": "438825409d2bcc959ef647fc83fa7faa796a39dcaa6c8a0e7cc9c9549fab5be9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Pattern015.uasset",
+    "bytes": 357360,
+    "sha256": "fe036d0ec8f21f0981bebf2aaa82997a2785fedb2ad862ebc6362d855e586973"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Pattern026.uasset",
+    "bytes": 182406,
+    "sha256": "f5066372bc06876b19f3d7ff2c92a059206a915d82c6647a44268a8a77be0a50"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Pattern031.uasset",
+    "bytes": 210943,
+    "sha256": "f42ddc102737f6c4876e2ee1e9f58260a3d82bb122e057f2474f6767a1c3f4a9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/Pattern_Lines002.uasset",
+    "bytes": 15915,
+    "sha256": "cbca029a45c95a3752f5b09bef9fb997bfe3f551b73d3256f8f6b97dc2ebf43c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Resources/RBGBars.uasset",
+    "bytes": 156961,
+    "sha256": "9288df4a46ff2699e7aea309f9c548d89434c5170f4168c6497b54abce9c3911"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Arch001_Arch001_Albedo.uasset",
+    "bytes": 23849486,
+    "sha256": "7e6c4a1144cd9a976347fa00066b614a3b6a57b23cb6bdb1d50aec60d191c631"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Arch001_Arch001_MRAH.uasset",
+    "bytes": 8142477,
+    "sha256": "d548a0519e5b5fc558809f126d0da9acad91fefa419d18d4e4604ff8637a74cd"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Arch001_Arch001_Normal.uasset",
+    "bytes": 9767839,
+    "sha256": "81156ee2c92b6c5e070a1a8702a12dd18ba41f2ad3943750e2c40206eff16163"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Beam0011_Albedo.uasset",
+    "bytes": 4753962,
+    "sha256": "b1c378c6bdac8943c1a2d9af776bdb4a5ee25b4d9cb5d0f17ac0634853a9e04c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Beam001_MRAH.uasset",
+    "bytes": 4262572,
+    "sha256": "9d99fbd5594b874143e4e1d44f59320c25cd4c9e862fcfeba8fc5e907cd1e788"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Beam001_Normal.uasset",
+    "bytes": 254739,
+    "sha256": "dadd9e3da1697f6d17c0ef56221ed83df33e1f5d62d42031904a356c492a925e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Floor_001_C_AlbedoT.uasset",
+    "bytes": 7454515,
+    "sha256": "b5f141188b6876e5a92f542a0f343f8035bc06ef5a6ba53c4056fe7018e18700"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Floor_001_C_MRAH.uasset",
+    "bytes": 6520794,
+    "sha256": "2cf5076f2444ce8f7a13d1d2d05bdb2185eeb85833837359d6862684f638e859"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Floor_001_C_Normal.uasset",
+    "bytes": 8390420,
+    "sha256": "1629d533797c8f3ab53da965b5a6512cbd6c0309f05e3ad655ce076b687114e6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Floor_001_D_AlbedoT.uasset",
+    "bytes": 8460647,
+    "sha256": "68f8f2176b79caf0bf222f0bdb1b86109bb2557b5c5b90a33b8eee57d4954363"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Floor_001_D_MRAH.uasset",
+    "bytes": 7951112,
+    "sha256": "fa3bbe7b65085234b5193e42e203a823a641c2d893a26eeefd12f7bc1f162911"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Floor_001_D_Normal.uasset",
+    "bytes": 9945770,
+    "sha256": "a453c481f9f2ba4a0bd741086e94faa69fa46da7b682ac5315b4d27b473b2a40"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Platform001_Platform001_Albedo.uasset",
+    "bytes": 13333206,
+    "sha256": "de545e2e1a776419ef3982f549aec9077cc3088255bd177639d1746c03586a98"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Platform001_Platform001_MRAH.uasset",
+    "bytes": 13016379,
+    "sha256": "93dfc07adf512066a94e86253f1092ae2abfb715f503d2b65edcc80c20acaeac"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Platform001_Platform001_Normal.uasset",
+    "bytes": 846585,
+    "sha256": "ec230e2d49afa5568d4faa3528e328340b20ca1f1f0b643edb002aabae2d5bf0"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Window_001_Albedo.uasset",
+    "bytes": 20743059,
+    "sha256": "c28f3ab07c1d710f4d17035129640e8aa745b9cda2d54fa9532c80a99654e51f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Window_001_MRAH.uasset",
+    "bytes": 13716055,
+    "sha256": "03c4c61225078d02d391a7f2810e4dfde0c55b2fbdd91645a980c5ff740a74cc"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Scene/Window_001_Normal.uasset",
+    "bytes": 22146804,
+    "sha256": "12170e903bd1776bb48aad2aabeda7e350cf32067b6f01d81c3cdaa676dea19a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Surface/Sand_001_Albedo.uasset",
+    "bytes": 37793384,
+    "sha256": "d65a30e72d7083c4e74b469752be9e789d1adf865e4fca88443a145740da9fb9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Surface/Sand_001_MRAH.uasset",
+    "bytes": 31127531,
+    "sha256": "97c549f477c08dc5a888d3ffc26fd3a0927da3cdd82ca50404e45e3a79e511c6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Surface/Sand_001_Normal.uasset",
+    "bytes": 42760804,
+    "sha256": "725163597309e8606d1374b63a3796e7505e68d4e55f4ea21e27af945f2eeec6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Surface/Stone_001_Albedo.uasset",
+    "bytes": 37801098,
+    "sha256": "b454f2f53660fcca0fe1b00e9b369e6de074939857a0673695de63b81e8202fa"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Surface/Stone_001_MRAH.uasset",
+    "bytes": 25697622,
+    "sha256": "ee0b3c6baa3f0f2c63ac02a96d1081378cca97bb2741a65f32b9258f9e4e9f64"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures/Surface/Stone_001_Normal.uasset",
+    "bytes": 39697578,
+    "sha256": "515139d548dfb04289660efafee0224081f93ff3e9c66554fdf9ca5064e6f36f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures_Examples/9_TileTexture.uasset",
+    "bytes": 2917391,
+    "sha256": "376f2fe4fac7b9d4d4c3e9704af594af826c826ea50e6f6b13206c37e7229e21"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures_Examples/wP_Rooms_v1_R00_L_day_1k.uasset",
+    "bytes": 2853913,
+    "sha256": "306c12b95e646c7c429ddfc435e93312fb09efff18daaba5c4d5d48da966c8a4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures_Examples/wP_Rooms_v1_R00_L_night_1k.uasset",
+    "bytes": 3076600,
+    "sha256": "a551ddd4b1fa167746f4b975055aa52a315b8e2ba75a4228e0464b36dbd1ad7f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures_Examples/wP_Rooms_v1_R00_S_day_1k.uasset",
+    "bytes": 2826477,
+    "sha256": "e41e14caeace0ce4a05014b74afcd7c193716807ae083e44ed383eca90b84f25"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Textures_Examples/wP_Rooms_v1_R00_S_night_1k.uasset",
+    "bytes": 3184364,
+    "sha256": "68a4f3ada72c3c97ba7845776cbab056732be546ec08586025a6a0d5dfaf0b3b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/M_BurnDisintegration.uasset",
+    "bytes": 35873,
+    "sha256": "312b5c90f6a4b5c8c76b943ddf68d907937b68504c55eb9c99786c26e1043361"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/M_FlowStudy.uasset",
+    "bytes": 18808,
+    "sha256": "5e4a0346de158a04a33a653db7c692a7f231c786833d4bd4f038e147b0fae24e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/M_FoliageWind.uasset",
+    "bytes": 14309,
+    "sha256": "cf70d58b3a25188e487292fb1d849e2271c1a80a9e213e2afafdf698ab141efb"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/M_PainterlyPostProcess.uasset",
+    "bytes": 14226,
+    "sha256": "e0114ff6043d787a5b274b73d77dd0b617a53feb36cf561d730570286e771917"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/M_ShieldImpact.uasset",
+    "bytes": 27441,
+    "sha256": "57e112dcd6a5dc1bbbc82bf18e99154f148955c5e9b58fdf8c1d597d9fa2aefe"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/M_SlimeStudy.uasset",
+    "bytes": 16119,
+    "sha256": "317a4f8768005233f24e3e8374e9284843495cdbf568ae8b82c7521bd6407314"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/M_StarNest_Port.uasset",
+    "bytes": 22581,
+    "sha256": "9c9ab6c65242130d78068ef8062abe083f2d384b45a289e069a334a833229e07"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Disintegration_AlmostGone.uasset",
+    "bytes": 10537,
+    "sha256": "304987895bd707a118d0b280567a617fc3ad48a2d705c76b181bae2a0dfb647a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Disintegration_Half.uasset",
+    "bytes": 12979,
+    "sha256": "15cc0fc4bac2c61317d08ce4a489036e2e7701000675084f06b900409943eb1f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Disintegration_Intact.uasset",
+    "bytes": 12702,
+    "sha256": "e403fb59382ce50b5f22f6b8d73459596f7c84a11806472bf4b01a83eca2d897"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Disintegration_Live.uasset",
+    "bytes": 12251,
+    "sha256": "3462e6d31430af969d1c8ee7878bba131981bdb6e969d59e3953eedad09fdd8e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Flow_Direction.uasset",
+    "bytes": 11961,
+    "sha256": "4b9f85f430b48763c489e589b228d65f0ced76fabbf2724f058ea913e20fa87a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Flow_Mask.uasset",
+    "bytes": 7800,
+    "sha256": "6831e4ea306d16395b74a63cd05fc94197c7bfd780f072dc2128f3e8e0a70dfc"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Flow_Masked.uasset",
+    "bytes": 12005,
+    "sha256": "c1eb3442dc9660a7b2b892c6939fc0dd3a8e5aa9cfb3d3185526d32edd21710d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Flow_Pan.uasset",
+    "bytes": 11367,
+    "sha256": "c12b2f914fa66b78e4f91e29c731588ddafbc0cc0db209db52799fa9e5d7038d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Grass_Mask.uasset",
+    "bytes": 7721,
+    "sha256": "6bdac47e80fdb47e9d59a794067e1b54c2e24162821416b122f8f9942264843e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Grass_Still.uasset",
+    "bytes": 7669,
+    "sha256": "3a0bd39a4cc1c59498747c3f044ecaf62ba2e5e80116144f409642f317eff949"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Grass_Wind.uasset",
+    "bytes": 6741,
+    "sha256": "0562510c0c0a8d578a8bdaac466414ae59451d05ff5329efde5df40fac33892f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Interior_Room.uasset",
+    "bytes": 8849,
+    "sha256": "60395a4bff56d6067c5cf4d8dd1572b965d61acd22de56e980fb17bf927bc63b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_PP_Ink.uasset",
+    "bytes": 10471,
+    "sha256": "6f024c9ffc6bb9624c2fe0028ca540555c3955bb33e0e542b89ebf3df041887b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_PP_Poster.uasset",
+    "bytes": 7608,
+    "sha256": "125202f4dc7362ab0df61afb58ce62e78170137f4546c8f3fe42a1318cb4c26b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_PP_Watercolor.uasset",
+    "bytes": 11010,
+    "sha256": "f4e9808f885ef1c0d5704b6444c2c390e660856bcb6068052b088b3dd142f1ed"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Shield_Base.uasset",
+    "bytes": 11629,
+    "sha256": "be75af8a27e1c68d10077a4d73f5f5646267cb6d9ffc955444333f9331f020fa"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Shield_Contact.uasset",
+    "bytes": 11647,
+    "sha256": "faff839a3b432078e026677f791d60ee80fbaa45aa68741746524d7cc9909298"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Shield_Impact.uasset",
+    "bytes": 11885,
+    "sha256": "349dd1f7d73ad38ae8ad261413c3967bbb749ec977e5c36dbd1ff0e2f2e21b85"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Slime_0.uasset",
+    "bytes": 10021,
+    "sha256": "8a2405afec08a6ab59e300238761e8747d03ce636f710f7acd95436c6dbee464"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Slime_1.uasset",
+    "bytes": 10107,
+    "sha256": "894cbebb467ade62d8be6be37ac6dd27db18da11237714da73f1556d9ab54c9e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Slime_2.uasset",
+    "bytes": 9918,
+    "sha256": "dc0812d4ff019986569329603017093351308cec747efa27fd9c82e7b6b3ea09"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_StarNest_20Steps.uasset",
+    "bytes": 11564,
+    "sha256": "8e81dd12121bb274a84aff4881f13b092004561bd7e9d18054a8186dfb311771"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_StarNest_8Steps.uasset",
+    "bytes": 10553,
+    "sha256": "052223c341152687dbdc2600f57052140d43fec0bffd920df5365d80ee7cdf29"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Window_Clear.uasset",
+    "bytes": 6836,
+    "sha256": "7231ce7798efea935d79bb06038fdb9099f0bffb4df22a6de93f29f5863ebc58"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Window_Frost.uasset",
+    "bytes": 6972,
+    "sha256": "50cc59f3b921b591ea75a4171e2a0ced198c5e7da16ceb11a352d3619c53aa9c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/MI_Window_Pattern.uasset",
+    "bytes": 6984,
+    "sha256": "a745e1a18943285516225dff64a26f2241a30a70dce0c3db0d7b8a3ec31ef3fe"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/SM_GrassStudy.uasset",
+    "bytes": 107566,
+    "sha256": "2ef65a0f581c3bc0e649ae129d87f3ba19182ddc2711384d914eec1b528b3190"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/AdvancedStudies/T_FlowDirectionMask.uasset",
+    "bytes": 39483,
+    "sha256": "46dbaf55e7943c631ea9435fa20d6b37ab178736e0e1cf08228b93547ad4a57e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Blueprints/BP_BurnControls.uasset",
+    "bytes": 73073,
+    "sha256": "8788eb3b7d304961d90d338235b2077fa684d61866548e46a26c8af7ac27004b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Blueprints/BP_GalleryGameMode.uasset",
+    "bytes": 20979,
+    "sha256": "c32473ae3267beaf80b93f8410fdfa298486e6cf5be7a02eb627561005c4efc6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/BrickStudy/Materials/MI_Brick_PBR.uasset",
+    "bytes": 8959,
+    "sha256": "c1982bd3c534ba5760397a0f2aaf530d7d47322054da8557774c5fb07f6feeac"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/BrickStudy/Materials/MI_Brick_POM.uasset",
+    "bytes": 18005,
+    "sha256": "c5ffc2c9f4f1a3e2072881152a4b9aeb1b50c055b311790fd6a81cfc5deebe07"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/BrickStudy/Textures/T_CastleBrick_BaseColor.uasset",
+    "bytes": 2707262,
+    "sha256": "2d3079770bf9ab143775bb37649bc9a3462eb59bcdcc99418461944fe7a592bc"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/BrickStudy/Textures/T_CastleBrick_MRAH.uasset",
+    "bytes": 8035332,
+    "sha256": "82bbfffcd3c8f366236fc5042b0d4be8d7a41f79c230e23f7597a09012bd9cfc"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/BrickStudy/Textures/T_CastleBrick_NormalDX.uasset",
+    "bytes": 4354051,
+    "sha256": "47c03cfe655542d3051040b55cc7808d12c32ea9fabeb964b24bc863ab4a614a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/M_DryComparison.uasset",
+    "bytes": 19659,
+    "sha256": "014b225789fecae88f0af6b843e47e387b3e395ab85cd6d8de4cc64cbb57d721"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/M_LayerStackComparison.uasset",
+    "bytes": 20578,
+    "sha256": "4a91b7983f8cccfe1bf63714e02d7144fb35658ed7a5d9b0efef50615155fd1a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/M_SnowCoverage.uasset",
+    "bytes": 24803,
+    "sha256": "ed8be4a6d2d17c8aa28510c0566eb59b58f4ecca6f26a0c836bec0244a90762c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/M_StudioBackdrop.uasset",
+    "bytes": 9299,
+    "sha256": "948f1cf33d8a161a474a40e9403fe9239c655e06e534d85a677f6d397c75e405"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/M_WetPatch_Decal.uasset",
+    "bytes": 11785,
+    "sha256": "bdffe6d0810241eb3b1b07ab3e2a4fb328bea785e9d69bb300b2c7db91fe23fd"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/Meshes/SM_BeveledWoodSample.uasset",
+    "bytes": 84936,
+    "sha256": "9d078f5fdb6bf4e33d2d3767aaf7581552e5f76467e1e42389c0aa4730ee49b1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/Meshes/SM_ComparisonBoulder.uasset",
+    "bytes": 106778,
+    "sha256": "853bd9a9f0cd321753f61691a756af65f0759e3dcd1cb019b816272ce98f4b21"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/MI_DetailedPuddle.uasset",
+    "bytes": 7417,
+    "sha256": "df82e7b07b31b1f09369ea80cb4ec0533e233d7077099c8450500cd42425c607"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/MI_Layers_Base.uasset",
+    "bytes": 3472,
+    "sha256": "7bde9905364e53384ce5533133c96aa3848394310a29001541b27549e0b4a033"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/MI_Layers_Coated.uasset",
+    "bytes": 3482,
+    "sha256": "dd0fbd11b0b73d1344eedf0b765faec9f02da6f831b1166c9b9ef5fe231690f7"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/MI_Layers_Partial.uasset",
+    "bytes": 3487,
+    "sha256": "f3e0219078ea1e789badf9e89943ebd15a8210bfc9084c9780f4f0c164c61278"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/MI_Snow_Base.uasset",
+    "bytes": 11857,
+    "sha256": "9718cc037b5530968e0028fbb9948bafaae9294a2bd9b450334a9b53755e975b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/MI_Snow_Coverage.uasset",
+    "bytes": 10308,
+    "sha256": "e27786be91c7f11e756456e0317bad93a71873813885e596f08cd68e2f0a7e3e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/MI_Snow_Mask.uasset",
+    "bytes": 7889,
+    "sha256": "6af21fdbab961d250890f5d7a062d5235009f85b88acac58c8eaa64f54740f36"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/ML_BlueCoating.uasset",
+    "bytes": 12406,
+    "sha256": "0c1092d6bbec49be3fc3380483f3f0535fb90c3f119cad99a8a7cb28a072b122"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/ML_DarkBase.uasset",
+    "bytes": 10752,
+    "sha256": "d80d65c862e98bfa654a808872f8c4e1c5b7d48f7df0ad9f4e4249b8043f5bad"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ComparisonLab/MLB_CoatingCoverage.uasset",
+    "bytes": 10551,
+    "sha256": "8911c1e47352fd34024b94bfbb1ac83ebda75249a74e42c25c9f49959588a9a6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Maps/W09_MaterialGallery.umap",
+    "bytes": 835358,
+    "sha256": "7c4623fb8f3bf07c77000ba01fc413f649b946e1ae71d47b40196f5c64f12ba4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_01_Intact.uasset",
+    "bytes": 3859,
+    "sha256": "d882d395e52526547dfb9dcfb4f37712136a9b3510d34c46dea669073fb9f8b1"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_02_Burning.uasset",
+    "bytes": 3864,
+    "sha256": "bafa0410f432dcb7a20e1396ab9fd04fbca0b4dfd8a89202ec07f6ba53794a78"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_03_Charred.uasset",
+    "bytes": 3864,
+    "sha256": "93aa448b2b15a89e142b3ef53a085d8ecffc4cdc9f30ece1f014ac8c4752ea2b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Coat_OFF.uasset",
+    "bytes": 9093,
+    "sha256": "ece74e20be2b46f36981dc7a281cdbdf5206d64f6b68f78b5e7c9dda530e7b56"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Coat_ON.uasset",
+    "bytes": 9472,
+    "sha256": "b4521fbfba4cb8f3eb2d10cb41dc54d2cba6bbab681ecab6580496c549963a20"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Figurine_Burning.uasset",
+    "bytes": 7871,
+    "sha256": "793a9e27a2031b0c19c8f28804d8029f4f3cd804562c438d2d473462f7ec6ec4"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Figurine_Charred.uasset",
+    "bytes": 8298,
+    "sha256": "f5f5d7763e10ff787966127c25f56cb768ed450e8817c041cebe0c041ea5bb41"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Figurine_FlatNormal.uasset",
+    "bytes": 8322,
+    "sha256": "8ca8d0268d78932d676cc1b2c65b82aab59be54ebda6f76b564c48150a88c878"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Figurine_Intact.uasset",
+    "bytes": 8296,
+    "sha256": "1bbaeee1c55073d0cf2598b2f4f1ed507fddb9a6d034dac09dfddda00f49045d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Figurine_Interactive.uasset",
+    "bytes": 11651,
+    "sha256": "cbd8e2c5c74786e4133d5a31231a7a1bf5dccf508e92c3954833fe9f5ccac7a3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Figurine_Mask.uasset",
+    "bytes": 8719,
+    "sha256": "5f78a6a51bcc7ed7b31c286c70b9598440d0fd50283abb5875ef16d28732b0a2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Normal_OFF.uasset",
+    "bytes": 7947,
+    "sha256": "cbff9966007bbe9d1e4c3217e6f38804613376765b1fe4cbc15d8986f4a2caaf"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Normal_ON.uasset",
+    "bytes": 9700,
+    "sha256": "9747d6d9a23aeffc5707a55e82d4b0b403533b087d053103cf5a0562bd8768ed"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Rocks_Bump.uasset",
+    "bytes": 16293,
+    "sha256": "ea0ced6e019ee6745093fbc01228a62c26667f05eb5fbd44db9b0eccaf997721"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/Instances/MI_Rocks_POM.uasset",
+    "bytes": 18179,
+    "sha256": "c994041a4d66ba85816afe1377d19b5ec2a83cadd9a39ac724d922cb360b6f40"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_Accent.uasset",
+    "bytes": 9507,
+    "sha256": "f14af65e77bf9734899d664b9fa607b18e034d1695acdeb5b2914a4ed0de6247"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_BurnSurface.uasset",
+    "bytes": 26754,
+    "sha256": "f377e9922a840d842e87c87a4e47079241f767b3904a626520acd09f3c23aa2c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_BurnSurface_Textured.uasset",
+    "bytes": 34771,
+    "sha256": "22829c502b8511c89831f52afa11fcda8538b6507b0306c6ba2078baee21d470"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_ClearCoatStudy.uasset",
+    "bytes": 17754,
+    "sha256": "84185d1a18f248a9f601f65c7c5a4b835fb21aaf8ab3dc9e97b99528c6b9a028"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_ColorSpace_Correct.uasset",
+    "bytes": 13569,
+    "sha256": "1226bc5ce24b36c43bdb9fce45784d5a575841804b8f3c1ee9c427188bd4b938"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_ColorSpace_Wrong.uasset",
+    "bytes": 12149,
+    "sha256": "7af99e1569397c2dbb4d383ca939b7285f6021088608ef05759d68e5774be903"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_GalleryFloor.uasset",
+    "bytes": 9482,
+    "sha256": "e5f949049f0685a5425078ffd835bd617e04bb4adeaae072a9f3e30fe5791d18"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_NormalDiagnostic.uasset",
+    "bytes": 15053,
+    "sha256": "a3703428c417e1673f0ba7fbacea71501621db54cd40a0c7a1ec9bdb4dba64ce"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_OptionalLandscape_SlopeHeight.uasset",
+    "bytes": 22531,
+    "sha256": "b9d9206a8d241208081ae6db7ff52259a8fa57afc30566ddcedf0ba23783eab5"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_Platform.uasset",
+    "bytes": 8824,
+    "sha256": "a62f5b1c2734e42b98153d477265ef13c3393ada09ee96b4c62e75ea4e78fc0e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_Text.uasset",
+    "bytes": 9289,
+    "sha256": "2bf6c7ad98d2c38fddd6af55ed589d230cf1985e908c701e0f40b3cd00ed3567"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/M_Wall.uasset",
+    "bytes": 8980,
+    "sha256": "104dbd9346c36ebb4d755325ee394a7b47560640e886a649007ab7187f674409"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/MI_OptionalLandscape_Default.uasset",
+    "bytes": 6768,
+    "sha256": "ebb5c9c719767e93f4860410e068b5ff772f53b7ffacfdd8545eb6334a4d6e4d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Materials/MPC_BurnDemo.uasset",
+    "bytes": 1945,
+    "sha256": "25a3728fdfd6b491e6b955f4201677c44fe237019b8bfabe3f8c6f77bdf842d7"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Functions/MF_W09_AO.uasset",
+    "bytes": 17735,
+    "sha256": "4b10e2a3f4964e6e8d69fe2c13f5f880008c443b3cff9f08a85da4a4772f60ff"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Functions/MF_W09_BaseColor.uasset",
+    "bytes": 17233,
+    "sha256": "ba84695b3abb6bb8a03f5060ad8dea25c84a82e000d4925fbc18b2969f8ef265"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Functions/MF_W09_Metallic.uasset",
+    "bytes": 16449,
+    "sha256": "568af880eb1ba7e0ebbdbf04c012ddd3b5e120c844f9cb6aeea0d52795484ae0"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Functions/MF_W09_Normal.uasset",
+    "bytes": 14604,
+    "sha256": "91db4629312c4c3723217bfced3ff71ba31fc9b68538dee8e8efb78ecfbc9d49"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Functions/MF_W09_Roughness.uasset",
+    "bytes": 18632,
+    "sha256": "5304581196f2bb4617291a5e0cb711e81285610edf9be619788bb6a5dcc16d5e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Functions/MF_W09_Specular.uasset",
+    "bytes": 12068,
+    "sha256": "459ea9a4864aaa4f3e70e27271c73ffb87bf586fcbc8d787eb383bf49ed9b5b0"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Functions/MF_W09_UV.uasset",
+    "bytes": 14679,
+    "sha256": "d331c8af4206a2cd3fed95abbc6e54debd8d4c9c5a22c07f4f7b6328f3db4e25"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_00_Neutral.uasset",
+    "bytes": 7114,
+    "sha256": "b038bfd2c94f3825705bbdfdcc13883f3c8144a7e8c8a1e889db3c66530875a8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_01_Brick_Separate.uasset",
+    "bytes": 18871,
+    "sha256": "8a5204afdca22c598eb43d4ccb988897040e8b0df35f1e67c5cfd3d4198db3fc"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_02_Brick_ORM.uasset",
+    "bytes": 18115,
+    "sha256": "344737cfb88e9f887b0fb7d6a712970350dea8f613ea2edbbeff4eaa1e756d99"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_03_Brick_UV.uasset",
+    "bytes": 19572,
+    "sha256": "fdfc9e177d03237be028a2c5b00a59e9f5c3bd8850cfe3838675442e1c8b08ba"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_04_Brick_Tint.uasset",
+    "bytes": 19743,
+    "sha256": "1314457a806deb548d5a132abef98800bb84c0f5f2b579d74be70e49b48de8e3"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_05_PolishedMetal.uasset",
+    "bytes": 10691,
+    "sha256": "2cc4d8f42b8c4f885a1a378abda20095cf1992cb593187ba533bf4a541d4c77d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_06_RoughMetal.uasset",
+    "bytes": 9647,
+    "sha256": "88e5d5d79fd6c294fe08f548786158cbe8b4327b37a5431b95ef7c83a16c8cd0"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_07_NormalFlat.uasset",
+    "bytes": 17555,
+    "sha256": "224c3f522f9fd57ec58f21f2a407f0fc08fb54a797f151c537233db11c6a0736"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_08_NormalStrong.uasset",
+    "bytes": 19886,
+    "sha256": "1e65638ea3216fa7d4602cb72614008bcd2f2ca37531d508a97f8f81cce6a906"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_09_AODisabled.uasset",
+    "bytes": 18851,
+    "sha256": "0752f2779f980364c4fd81840e494e114713030e034d52ac4638d3d5a8993e7d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_10_SpecularZero.uasset",
+    "bytes": 10701,
+    "sha256": "ccb5355682903ad7f31770140318581837e988e0a9fdf2fd9ebd99ac8e53ac87"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Instances/MI_W09_11_SpecularOne.uasset",
+    "bytes": 10444,
+    "sha256": "9eaccf02da55eb85456cf68cb55c5111598fe7a543822d9fdd9a118b16d71c0a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/M_W09_SurfaceMaster.uasset",
+    "bytes": 19865,
+    "sha256": "38263636358a37a0ccfc88e7843a5b131760757e9849c7446f87f81c71d4639e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Textures/T_W09_Brick_AO.uasset",
+    "bytes": 2035663,
+    "sha256": "5f1a518232fb3ed2914291b0a4e34c64ac6bce966c82675b876601c406a2ddff"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Textures/T_W09_Brick_BaseColor.uasset",
+    "bytes": 2700739,
+    "sha256": "132f7535d340b339679290c1cea0d73ca822bb53ec3c2c00853ee95673f40736"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Textures/T_W09_Brick_Height.uasset",
+    "bytes": 8286016,
+    "sha256": "3c5c0b7365aec74e977e33aae3ed25fc420e33e23badc8f72baa5d8256590578"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Textures/T_W09_Brick_Normal.uasset",
+    "bytes": 4348286,
+    "sha256": "598520cf480b0537cf4b3d8c239ae8402beaf92ab61dce06e05c07ba2e6f3930"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Textures/T_W09_Brick_ORM.uasset",
+    "bytes": 886546,
+    "sha256": "f52c47438e147a019dc693fa030cbb08e4be482e2ccaa49c8b9d7ea095c65ef6"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/NotesMaster/Textures/T_W09_Brick_Roughness.uasset",
+    "bytes": 901060,
+    "sha256": "2df347c322d124ebaad5b53f944921224d6287d81568c7a69498e6e2e4dad61a"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/M_08_VertexColorDiagnostic.uasset",
+    "bytes": 9430,
+    "sha256": "e0798eae7e55baaf87567fd65013e916d4396fdc42c040159369a3f08a470b38"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/M_09_MossReference.uasset",
+    "bytes": 25096,
+    "sha256": "d0f6d62d08cc21f1eb8aef750f0013ef3c143206a6e17a85a2d1547237a72444"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/M_09_SnowReference.uasset",
+    "bytes": 24479,
+    "sha256": "0fe896f0c8aebd481b32d7e31b9e976a97e7519c9efc9b75e074863f4d17a5b8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/M_10_DecalReceiver.uasset",
+    "bytes": 9904,
+    "sha256": "ee5c84e295740913bd2a6fef6e7e3154f714beceefe17ef26fcadca951c5553e"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/M_11_SharedAndPerObject.uasset",
+    "bytes": 9798,
+    "sha256": "7414949043acbe409e44227fc1e81bf8d48f181e6ad3f1c453c6d528c389ca32"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MF_09_AddMoss.uasset",
+    "bytes": 25124,
+    "sha256": "d2b0118765b1878c5cce737ba9663ad237475e2065a0d60f21422b06bc41fa60"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MI_08_HeightBlend.uasset",
+    "bytes": 13525,
+    "sha256": "83a91d098ae616b7add855f803124359d1ce74395eca024054c72a9cda74474c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MI_08_VertexWeights.uasset",
+    "bytes": 11921,
+    "sha256": "744ebc3746436820078aae2e5e9513a706fcadb4c3f453970ad040e6d217512f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MI_09_Moss.uasset",
+    "bytes": 9343,
+    "sha256": "1c718e3120b9dd0a28a71e2c79dc93e353bf602223f929d014fdabf23ba14ade"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MI_09_Snow.uasset",
+    "bytes": 8932,
+    "sha256": "fd04db53657b77d5a30dac77133938ec3699bdac4e2ba6673ecf8050a48d71bb"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MI_10_AngleMaskedDecal.uasset",
+    "bytes": 6904,
+    "sha256": "d5c7eeb76e97b04333821e5d5c30b4d0ceb3befbcb1b1404a74729cf4f6a6915"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MI_10_PuddleDecal.uasset",
+    "bytes": 8096,
+    "sha256": "89630ac6661869657e05043bc60d82b72f65991120362d2f856aaa3855c6bd4c"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MI_10_RoughnessDecal.uasset",
+    "bytes": 6766,
+    "sha256": "c0b185df3383ed38c5fc549cf3cfde077a88c3532da7b5fc322b32b0ec03d73d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MI_12_Layers_0.uasset",
+    "bytes": 7222,
+    "sha256": "88b847c260731de119caf275b6142c82be6418768baf1d8b97343315af52291b"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MI_12_Layers_1.uasset",
+    "bytes": 8284,
+    "sha256": "57f1f4daa4fbe69a44887ed2bccc97f063b072015b7cf1930e7c85b30d127a75"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MI_12_Layers_2.uasset",
+    "bytes": 8342,
+    "sha256": "c6b51803e17566c6cd52311fb2ef2936db4b291fdb9937d4ac9a8fb51d418af8"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MPC_09_Directions.uasset",
+    "bytes": 1911,
+    "sha256": "878e4d37df78413b55aa0af88cf209a693a57665e3fe511f4eeb1401998876de"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/ReferenceSystems/MPC_11_SharedControls.uasset",
+    "bytes": 1704,
+    "sha256": "80263129dc5b42547f39158e6ecbb77fd5c8fe6e63d8f2a3825a35ef91b95c17"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/00_MaterialEditorReference/06_Functions/06_Functions_AddMoss.uasset",
+    "bytes": 21775,
+    "sha256": "47295d4eae0b061e865d55c2060ed0bcb870aa8b7daa3a11eeb416df6eed5936"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/02_Decals/01_Decal_Setup.uasset",
+    "bytes": 15344,
+    "sha256": "9a7052e0d4e8b00b229c0ff3ebabfa6cc6b45718e11f21290e3d2439812dbe08"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/02_Decals/04_Decal_Roughness.uasset",
+    "bytes": 9986,
+    "sha256": "fdf5a3e235168c9433a83081dbb65f167a9ca8163010560e924a723356bf0cd0"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/02_Decals/07_Decals_AngleMasking.uasset",
+    "bytes": 14008,
+    "sha256": "bd02df08364c069aad1b86a3ec379bb8ddf91a3d59307f9f29c87634a603172f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/02_Decals/10_Decals_CustomPuddle.uasset",
+    "bytes": 14296,
+    "sha256": "2f600c49f24bda536a2f39f8c0d525762da1ac53d4afd0159ccb7762501f102d"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/03_WorldSpace/04_WorldSpace_Snow.uasset",
+    "bytes": 30459,
+    "sha256": "f93023a885807d1db848cefdbda854c6dda2bdfafc2b5023f65793b27efdac71"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/03_WorldSpace/Functions/MF_Mod_AddMoss.uasset",
+    "bytes": 26334,
+    "sha256": "aa708bf19927eec3e44427fbff23947c91fc825f8e44a80e89e504990ec64c80"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/05_Landscapes/LandscapeLayers/MF_LandscapeLayer_MossyForestFloor.uasset",
+    "bytes": 64821,
+    "sha256": "0da23e380275ae58417ed4c21965f70ea85e070b843d19e730a26ee81b0240a2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/05_Landscapes/LandscapeLayers/MF_LandscapeLayer_Snow.uasset",
+    "bytes": 64715,
+    "sha256": "f7eac814fa501d20a936ffca739a4bd593c16af860bb8050036d2df4360f3708"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/05_Landscapes/LandscapeLayers/MPC_Globals.uasset",
+    "bytes": 1989,
+    "sha256": "7b61221fb6c12ce2f7216b991282f28c04590cf2ef6b25c4220449d20733e072"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/06_LayeredMaterials/01_LayeredMaterials_Setup.uasset",
+    "bytes": 17433,
+    "sha256": "64250ddc36c7db617f47dbd05bf8362c3ea9ca1e4d8fd686839b2996784c7eea"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/06_LayeredMaterials/03_LayeredMaterials_HeightLerp.uasset",
+    "bytes": 15834,
+    "sha256": "fb452b55cfb6a967996655f646482fcef872f6bc633b69342c9ee1521921c212"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/06_LayeredMaterials/MaterialLayerBlends/MatLayerBlend_HeightLerp.uasset",
+    "bytes": 16925,
+    "sha256": "c83db652a800aab73d731871ff7b4ebc667333a9ade23cd3c12295127744c531"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/06_LayeredMaterials/MaterialLayers/MatLayer_Debug_Black.uasset",
+    "bytes": 11108,
+    "sha256": "1419c3f17489a0c282e759858b3980d6b0426f02bc51e82a748976e973143c49"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/06_LayeredMaterials/MaterialLayers/MatLayer_Debug_Red.uasset",
+    "bytes": 11192,
+    "sha256": "93850ad47721d19d45689c986628352b818dda3e2ae40cc8c837cd9565c46eba"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/Textures/DebugTextures/T_Debug_UV2.uasset",
+    "bytes": 47047,
+    "sha256": "b925ee8e98d2f77c336df3adc76faaceba7689bcf31e3f6d326e05afe6fe5333"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/Textures/DefaultTextures/T_Default_DetailNormal.uasset",
+    "bytes": 8976119,
+    "sha256": "99e30b23882905c5c95d8304c6d89b235c5ee11f8fda68be851c906679c412aa"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/Textures/DefaultTextures/T_Default_Normal.uasset",
+    "bytes": 5250,
+    "sha256": "fa0642ae79d4add6d8a80b6ce9e620132bd6720b5d9e118823ccd6607db56532"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/Textures/DefaultTextures/T_Default_Normal_Noise.uasset",
+    "bytes": 876067,
+    "sha256": "0f49f4baed6afe3de4391a1e14953fe1ff18d53d09fa5d15db575dbc4f3d1aa9"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/Textures/DefaultTextures/T_Default_White_Linear.uasset",
+    "bytes": 4975,
+    "sha256": "424aa6ba08e345f6d533ef5306569e8d8d39862ef8822195d500d15ef54c5301"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/01_EnvironmentalMaterials/Textures/Environmental/T_Decal_Puddle.uasset",
+    "bytes": 119640,
+    "sha256": "da3365e6d19921e4141730eee9ffe36943848d74bc98d1d7d4d7e71cf2e3154f"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/SharedResources/Megascans/Surfaces/Melting_Snow_uepnbikfw/T_Melting_Snow_uepnbikfw_1K_D.uasset",
+    "bytes": 2940000,
+    "sha256": "899120f76f81bbcc8961f419da10a692a9363cc54d4cb51c7a594a100d0b29dd"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/SharedResources/Megascans/Surfaces/Melting_Snow_uepnbikfw/T_Melting_Snow_uepnbikfw_1K_N.uasset",
+    "bytes": 4305110,
+    "sha256": "3972245a10e07ecc5822598778e8df99d8ea1ad8d333215a53b29b430e60f392"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/SharedResources/Megascans/Surfaces/Melting_Snow_uepnbikfw/T_MeltingSnow_uepnbikfw_1K_ORDp.uasset",
+    "bytes": 3266877,
+    "sha256": "b451e5cd407bbac5c9551691869e247bf23e0e3ab6431062864afc5370d8e0a2"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/SharedResources/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/T_Mossy_Forest_Floor_vfylbge_1K_D.uasset",
+    "bytes": 5605087,
+    "sha256": "a7097446971028eab95edce9cb3c87f58cc6afa5ca9b81ca6e3bbb57e1f26611"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/SharedResources/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/T_Mossy_Forest_Floor_vfylbge_1K_N.uasset",
+    "bytes": 5008454,
+    "sha256": "d7ba3439a89ad1a445640fb4675228dc062cc82b4270b0a29e7291b433d68557"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/SurfaceLibrary/SharedResources/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/T_MossyForestFloor_vfylbge_1K_ORDp.uasset",
+    "bytes": 4482996,
+    "sha256": "d736c0fd3748332613bcd64fe691307cfbb15e6e63c6d7ac9e3d322a29240d40"
+  },
+  {
+    "path": "Week09MaterialLab/Content/Week09/Textures/T_Figurine_Color_WRONG_Linear.uasset",
+    "bytes": 13214681,
+    "sha256": "b9e2b60e309994286f72d40efee1631107472de4b9e3db5dc7e298fb54bd369d"
+  },
+  {
+    "path": "Week09MaterialLab/SourceArt/StarNest/LICENSE.txt",
+    "bytes": 1183,
+    "sha256": "8f53fb3e8d9e4f3c2340dd848a9c55c4a1a6d5b5d65b63ac60a85dbc3a03dbac"
+  },
+  {
+    "path": "Week09MaterialLab/SourceArt/StarNest/StarNest.hlsl",
+    "bytes": 1787,
+    "sha256": "ea85f08f32906942bd95fb4fa13e9ed379d6e1faa40f6518e1adbdaa36f8c25a"
+  },
+  {
+    "path": "Week09MaterialLab/Week09MaterialLab.uproject",
+    "bytes": 337,
+    "sha256": "ea86ac1b87bc12088594b74265aac5f51c7d57175a11e2b62e7532d8f86d8d00"
+  }
+]
