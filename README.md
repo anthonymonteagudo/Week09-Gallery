@@ -20,3 +20,5 @@ In Play: **I** ignites the LIVE burn/disintegration specimens, **R** resets, **C
 Validated in UE 5.7.4: fresh project load and map reload, 409 actors, 23 benches and 201 reachable project dependencies with none missing. SHA256SUMS.txt verifies the ZIP; gallery-manifest.json records the packaged files.
 
 [Online slides and handouts](https://anthonymonteagudo.github.io/Week08-Shaders/week09/)
+
+[Download the printable shader cheat sheet (one-page PDF)](Week09-Shader-Cheat-Sheet.pdf)
