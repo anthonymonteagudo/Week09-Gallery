@@ -23,4 +23,4 @@ Validated in UE 5.7.4: fresh project load and map reload, 409 actors, 23 benches
 
 [Download the printable shader cheat sheet (one-page PDF)](Week09-Shader-Cheat-Sheet.pdf)
 
-[Open the complete gallery walkthrough / recording script](https://anthonymonteagudo.github.io/Week08-Shaders/week09/gallery-recording-script.html) — all 23 stations, master material and post-process presets; about 22 minutes plus pauses. [Download the self-contained HTML](gallery-recording-script.html) to use offline.
+[Open the complete gallery walkthrough / recording script](https://anthonymonteagudo.github.io/Week08-Shaders/week09/gallery-recording-script.html) — master material first (about six minutes), then all 23 stations and post-process presets. About 26–30 minutes overall, with expandable mechanism refreshers. [Download the self-contained HTML](gallery-recording-script.html) to use offline.
